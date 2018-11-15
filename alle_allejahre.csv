@@ -1,0 +1,2970 @@
+,Saison,Team,Wert
+0,2008,Bayern München,238.9
+1,2008,Werder Bremen,142.45
+2,2008,FC Schalke 04,128.0
+3,2008,Hamburger SV,110.3
+4,2008,Bay. Leverkusen,97.7
+5,2008,Bor. Dortmund,94.18
+6,2008,VfB Stuttgart,93.4
+7,2008,VfL Wolfsburg,84.55
+8,2008,Hertha BSC,74.8
+9,2008,Hannover 96,65.45
+10,2008,E. Frankfurt,63.05
+11,2008,VfL Bochum,45.8
+12,2008,TSG Hoffenheim,44.2
+13,2008,Bor. M'gladbach,40.25
+14,2008,Karlsruher SC,38.85
+15,2008,1.FC Köln,34.15
+16,2008,Arm. Bielefeld,30.0
+17,2008,Energie Cottbus,29.45
+18,2009,Bayern München,283.25
+19,2009,VfL Wolfsburg,155.88
+20,2009,Hamburger SV,145.93
+21,2009,Werder Bremen,134.0
+22,2009,VfB Stuttgart,125.0
+23,2009,FC Schalke 04,113.55
+24,2009,Bay. Leverkusen,109.05
+25,2009,TSG Hoffenheim,90.63
+26,2009,Bor. Dortmund,80.45
+27,2009,Hertha BSC,76.1
+28,2009,1.FC Köln,72.23
+29,2009,Hannover 96,66.88
+30,2009,E. Frankfurt,62.0
+31,2009,Bor. M'gladbach,45.8
+32,2009,VfL Bochum,44.55
+33,2009,1.FC Nürnberg,42.08
+34,2009,1.FSV Mainz 05,40.45
+35,2009,SC Freiburg,31.58
+36,2010,Bayern München,284.5
+37,2010,VfL Wolfsburg,210.73
+38,2010,Bay. Leverkusen,146.65
+39,2010,Werder Bremen,146.55
+40,2010,FC Schalke 04,139.65
+41,2010,Hamburger SV,132.23
+42,2010,Bor. Dortmund,114.65
+43,2010,VfB Stuttgart,106.65
+44,2010,TSG Hoffenheim,98.35
+45,2010,Bor. M'gladbach,69.3
+46,2010,1.FC Köln,62.48
+47,2010,E. Frankfurt,56.6
+48,2010,1.FSV Mainz 05,45.55
+49,2010,Hannover 96,44.63
+50,2010,SC Freiburg,42.8
+51,2010,1.FC Nürnberg,38.98
+52,2010,1.FC K'lautern,37.23
+53,2010,FC St. Pauli,29.9
+54,2011,Bayern München,335.6
+55,2011,Bor. Dortmund,158.2
+56,2011,Bay. Leverkusen,151.1
+57,2011,FC Schalke 04,136.73
+58,2011,Werder Bremen,125.35
+59,2011,VfL Wolfsburg,122.0
+60,2011,Hamburger SV,103.2
+61,2011,VfB Stuttgart,101.88
+62,2011,TSG Hoffenheim,93.6
+63,2011,1.FC Köln,69.29
+64,2011,Hannover 96,68.85
+65,2011,Bor. M'gladbach,59.08
+66,2011,SC Freiburg,57.4
+67,2011,1.FSV Mainz 05,55.1
+68,2011,Hertha BSC,50.35
+69,2011,1.FC K'lautern,50.05
+70,2011,1.FC Nürnberg,43.18
+71,2011,FC Augsburg,34.98
+72,2012,Bayern München,407.3
+73,2012,Bor. Dortmund,227.68
+74,2012,FC Schalke 04,171.0
+75,2012,VfL Wolfsburg,120.33
+76,2012,Bay. Leverkusen,115.9
+77,2012,Hamburger SV,110.6
+78,2012,VfB Stuttgart,102.03
+79,2012,Hannover 96,88.0
+80,2012,TSG Hoffenheim,85.03
+81,2012,Bor. M'gladbach,81.0
+82,2012,Werder Bremen,79.2
+83,2012,E. Frankfurt,51.2
+84,2012,1.FSV Mainz 05,50.95
+85,2012,FC Augsburg,47.0
+86,2012,SC Freiburg,45.45
+87,2012,1.FC Nürnberg,42.65
+88,2012,Greuther Fürth,34.08
+89,2012,F. Düsseldorf,31.75
+90,2013,Bayern München,483.98
+91,2013,Bor. Dortmund,285.15
+92,2013,FC Schalke 04,186.95
+93,2013,Bay. Leverkusen,141.85
+94,2013,VfL Wolfsburg,134.73
+95,2013,Hamburger SV,111.7
+96,2013,VfB Stuttgart,100.98
+97,2013,Bor. M'gladbach,94.78
+98,2013,E. Frankfurt,84.93
+99,2013,Hannover 96,83.55
+100,2013,TSG Hoffenheim,77.08
+101,2013,Werder Bremen,74.45
+102,2013,SC Freiburg,66.63
+103,2013,1.FC Nürnberg,48.88
+104,2013,Hertha BSC,45.95
+105,2013,1.FSV Mainz 05,45.4
+106,2013,FC Augsburg,43.5
+107,2013,E. Braunschweig,29.6
+108,2014,Bayern München,564.18
+109,2014,Bor. Dortmund,329.8
+110,2014,FC Schalke 04,213.38
+111,2014,VfL Wolfsburg,176.13
+112,2014,Bay. Leverkusen,166.55
+113,2014,Hamburger SV,114.95
+114,2014,Bor. M'gladbach,107.33
+115,2014,TSG Hoffenheim,100.03
+116,2014,VfB Stuttgart,97.9
+117,2014,Hannover 96,78.05
+118,2014,1.FSV Mainz 05,76.9
+119,2014,Hertha BSC,76.48
+120,2014,E. Frankfurt,73.98
+121,2014,Werder Bremen,58.58
+122,2014,SC Freiburg,56.9
+123,2014,1.FC Köln,43.33
+124,2014,FC Augsburg,42.43
+125,2014,SC Paderborn,22.45
+126,2015,Bayern München,608.5
+127,2015,Bor. Dortmund,311.6
+128,2015,VfL Wolfsburg,265.43
+129,2015,FC Schalke 04,209.35
+130,2015,Bay. Leverkusen,200.75
+131,2015,Bor. M'gladbach,139.55
+132,2015,TSG Hoffenheim,111.4
+133,2015,E. Frankfurt,87.5
+134,2015,VfB Stuttgart,82.6
+135,2015,Hamburger SV,74.08
+136,2015,Hannover 96,73.58
+137,2015,Hertha BSC,72.88
+138,2015,1.FSV Mainz 05,67.55
+139,2015,FC Augsburg,62.5
+140,2015,Werder Bremen,59.5
+141,2015,1.FC Köln,52.05
+142,2015,FC Ingolstadt,24.38
+143,2015,Darmstadt 98,19.8
+144,2016,Bayern München,595.4
+145,2016,Bor. Dortmund,321.05
+146,2016,Bay. Leverkusen,244.58
+147,2016,FC Schalke 04,238.75
+148,2016,VfL Wolfsburg,225.35
+149,2016,Bor. M'gladbach,155.8
+150,2016,Hamburger SV,94.98
+151,2016,1.FSV Mainz 05,85.7
+152,2016,1.FC Köln,77.4
+153,2016,TSG Hoffenheim,76.55
+154,2016,Hertha BSC,75.98
+155,2016,Werder Bremen,75.08
+156,2016,RB Leipzig,69.18
+157,2016,FC Augsburg,69.0
+158,2016,E. Frankfurt,66.1
+159,2016,SC Freiburg,40.25
+160,2016,FC Ingolstadt,36.68
+161,2016,Darmstadt 98,32.83
+162,2017,Bayern München,610.25
+163,2017,Bor. Dortmund,449.23
+164,2017,Bay. Leverkusen,225.4
+165,2017,FC Schalke 04,205.2
+166,2017,RB Leipzig,200.98
+167,2017,VfL Wolfsburg,150.8
+168,2017,Bor. M'gladbach,150.18
+169,2017,TSG Hoffenheim,123.35
+170,2017,1.FC Köln,120.7
+171,2017,Hertha BSC,89.85
+172,2017,E. Frankfurt,82.3
+173,2017,Werder Bremen,78.43
+174,2017,1.FSV Mainz 05,76.65
+175,2017,VfB Stuttgart,73.88
+176,2017,SC Freiburg,72.73
+177,2017,Hamburger SV,70.08
+178,2017,FC Augsburg,54.38
+179,2017,Hannover 96,48.8
+180,2018,Bayern München,807.8
+181,2018,Bor. Dortmund,472.3
+182,2018,Bay. Leverkusen,404.2
+183,2018,RB Leipzig,330.0
+184,2018,FC Schalke 04,266.9
+185,2018,TSG Hoffenheim,246.45
+186,2018,Bor. M'gladbach,235.6
+187,2018,Hertha BSC,174.08
+188,2018,E. Frankfurt,166.5
+189,2018,VfB Stuttgart,165.3
+190,2018,VfL Wolfsburg,156.25
+191,2018,Werder Bremen,133.9
+192,2018,FC Augsburg,113.0
+193,2018,1.FSV Mainz 05,108.0
+194,2018,Hannover 96,99.35
+195,2018,SC Freiburg,88.15
+196,2018,1.FC Nürnberg,49.93
+197,2018,F. Düsseldorf,41.95
+198,2008,1.FC Nürnberg,43.53
+199,2008,1.FSV Mainz 05,26.65
+200,2008,MSV Duisburg,25.0
+201,2008,1860 München,21.1
+202,2008,SC Freiburg,20.9
+203,2008,Hansa Rostock,19.8
+204,2008,1.FC K'lautern,18.75
+205,2008,FC Augsburg,18.45
+206,2008,Greuther Fürth,16.55
+207,2008,Alem. Aachen,16.38
+208,2008,Wehen Wiesbaden,14.2
+209,2008,TuS Koblenz,13.53
+210,2008,VfL Osnabrück,13.03
+211,2008,FC St. Pauli,12.23
+212,2008,FSV Frankfurt,9.33
+213,2008,FC Ingolstadt,6.05
+214,2008,Rot Weiss Ahlen,5.98
+215,2008,RW Oberhausen,5.73
+216,2009,Arm. Bielefeld,27.38
+217,2009,MSV Duisburg,25.1
+218,2009,1.FC K'lautern,23.9
+219,2009,Energie Cottbus,21.8
+220,2009,1860 München,21.7
+221,2009,FC Augsburg,21.33
+222,2009,Karlsruher SC,21.1
+223,2009,Hansa Rostock,20.63
+224,2009,Alem. Aachen,20.15
+225,2009,TuS Koblenz,18.0
+226,2009,Greuther Fürth,17.05
+227,2009,FC St. Pauli,15.75
+228,2009,FSV Frankfurt,13.1
+229,2009,Rot Weiss Ahlen,12.93
+230,2009,F. Düsseldorf,11.65
+231,2009,SC Paderborn,9.58
+232,2009,Union Berlin,9.48
+233,2009,RW Oberhausen,8.85
+234,2010,VfL Bochum,32.2
+235,2010,Hertha BSC,30.8
+236,2010,FC Augsburg,25.1
+237,2010,Greuther Fürth,23.33
+238,2010,Arm. Bielefeld,21.05
+239,2010,1860 München,20.93
+240,2010,F. Düsseldorf,19.6
+241,2010,Karlsruher SC,18.93
+242,2010,Alem. Aachen,16.83
+243,2010,Energie Cottbus,15.88
+244,2010,MSV Duisburg,15.8
+245,2010,Union Berlin,13.5
+246,2010,FC Ingolstadt,13.0
+247,2010,RW Oberhausen,11.65
+248,2010,FSV Frankfurt,11.5
+249,2010,SC Paderborn,11.43
+250,2010,VfL Osnabrück,10.55
+251,2010,Erzgebirge Aue,10.08
+252,2011,E. Frankfurt,51.4
+253,2011,FC St. Pauli,25.6
+254,2011,Energie Cottbus,22.55
+255,2011,VfL Bochum,21.33
+256,2011,F. Düsseldorf,20.08
+257,2011,Greuther Fürth,19.58
+258,2011,1860 München,19.5
+259,2011,Alem. Aachen,19.4
+260,2011,FC Ingolstadt,18.25
+261,2011,MSV Duisburg,17.93
+262,2011,Karlsruher SC,16.7
+263,2011,Dynamo Dresden,16.55
+264,2011,FSV Frankfurt,14.85
+265,2011,Erzgebirge Aue,14.0
+266,2011,Hansa Rostock,11.95
+267,2011,Union Berlin,10.8
+268,2011,SC Paderborn,10.68
+269,2011,E. Braunschweig,8.18
+270,2012,Hertha BSC,38.58
+271,2012,1.FC K'lautern,36.03
+272,2012,1.FC Köln,28.03
+273,2012,1860 München,23.85
+274,2012,FC Ingolstadt,18.18
+275,2012,Dynamo Dresden,17.13
+276,2012,MSV Duisburg,16.45
+277,2012,FC St. Pauli,15.53
+278,2012,Union Berlin,15.3
+279,2012,VfL Bochum,15.2
+280,2012,Energie Cottbus,14.9
+281,2012,E. Braunschweig,14.6
+282,2012,Erzgebirge Aue,14.4
+283,2012,FSV Frankfurt,14.08
+284,2012,SC Paderborn,12.93
+285,2012,SV Sandhausen,12.9
+286,2012,Jahn Regensburg,8.95
+287,2012,VfR Aalen,8.78
+288,2013,1.FC K'lautern,32.78
+289,2013,F. Düsseldorf,28.0
+290,2013,1.FC Köln,24.95
+291,2013,Greuther Fürth,21.5
+292,2013,Union Berlin,16.73
+293,2013,FC St. Pauli,16.58
+294,2013,1860 München,16.25
+295,2013,FC Ingolstadt,15.38
+296,2013,FSV Frankfurt,14.7
+297,2013,Energie Cottbus,14.65
+298,2013,Erzgebirge Aue,13.35
+299,2013,VfL Bochum,13.3
+300,2013,Dynamo Dresden,13.3
+301,2013,Arm. Bielefeld,12.4
+302,2013,SC Paderborn,12.35
+303,2013,SV Sandhausen,9.9
+304,2013,Karlsruher SC,9.78
+305,2013,VfR Aalen,7.85
+306,2014,1.FC Nürnberg,30.95
+307,2014,Greuther Fürth,25.15
+308,2014,F. Düsseldorf,24.73
+309,2014,RB Leipzig,23.3
+310,2014,1.FC K'lautern,22.98
+311,2014,1860 München,22.45
+312,2014,FC St. Pauli,21.1
+313,2014,E. Braunschweig,19.6
+314,2014,FC Ingolstadt,16.53
+315,2014,Union Berlin,15.58
+316,2014,VfL Bochum,15.2
+317,2014,Karlsruher SC,14.75
+318,2014,FSV Frankfurt,13.55
+319,2014,Erzgebirge Aue,13.4
+320,2014,Darmstadt 98,12.43
+321,2014,SV Sandhausen,12.4
+322,2014,VfR Aalen,11.58
+323,2014,1.FC Heidenheim,9.35
+324,2015,RB Leipzig,35.3
+325,2015,SC Freiburg,31.1
+326,2015,SC Paderborn,24.73
+327,2015,1.FC Nürnberg,24.65
+328,2015,F. Düsseldorf,23.58
+329,2015,Greuther Fürth,20.4
+330,2015,1860 München,19.7
+331,2015,Union Berlin,19.15
+332,2015,1.FC K'lautern,18.45
+333,2015,Karlsruher SC,16.63
+334,2015,E. Braunschweig,16.18
+335,2015,FC St. Pauli,15.4
+336,2015,FSV Frankfurt,14.2
+337,2015,MSV Duisburg,13.95
+338,2015,VfL Bochum,13.3
+339,2015,1.FC Heidenheim,12.78
+340,2015,Arm. Bielefeld,12.7
+341,2015,SV Sandhausen,11.5
+342,2016,VfB Stuttgart,52.38
+343,2016,Hannover 96,40.6
+344,2016,1860 München,25.35
+345,2016,1.FC Nürnberg,22.1
+346,2016,FC St. Pauli,21.83
+347,2016,Union Berlin,20.63
+348,2016,1.FC K'lautern,20.4
+349,2016,Karlsruher SC,18.8
+350,2016,F. Düsseldorf,18.7
+351,2016,E. Braunschweig,18.65
+352,2016,Greuther Fürth,17.3
+353,2016,VfL Bochum,15.18
+354,2016,Arm. Bielefeld,14.05
+355,2016,1.FC Heidenheim,13.05
+356,2016,SV Sandhausen,12.35
+357,2016,Dynamo Dresden,9.65
+358,2016,Würzb. Kickers,9.5
+359,2016,Erzgebirge Aue,8.48
+360,2017,FC Ingolstadt,33.18
+361,2017,Union Berlin,22.43
+362,2017,Darmstadt 98,21.78
+363,2017,1.FC Nürnberg,21.13
+364,2017,E. Braunschweig,20.7
+365,2017,F. Düsseldorf,20.18
+366,2017,Dynamo Dresden,18.85
+367,2017,Greuther Fürth,18.13
+368,2017,1.FC K'lautern,17.88
+369,2017,VfL Bochum,17.75
+370,2017,FC St. Pauli,16.9
+371,2017,Arm. Bielefeld,14.08
+372,2017,1.FC Heidenheim,13.85
+373,2017,SV Sandhausen,13.03
+374,2017,Erzgebirge Aue,11.4
+375,2017,Holstein Kiel,9.7
+376,2017,MSV Duisburg,8.9
+377,2017,Jahn Regensburg,7.13
+378,2018,1.FC Köln,74.9
+379,2018,Hamburger SV,56.95
+380,2018,FC Ingolstadt,22.2
+381,2018,Union Berlin,20.5
+382,2018,Dynamo Dresden,19.83
+383,2018,Arm. Bielefeld,18.75
+384,2018,FC St. Pauli,16.95
+385,2018,VfL Bochum,16.4
+386,2018,Holstein Kiel,15.85
+387,2018,Darmstadt 98,15.35
+388,2018,1.FC Heidenheim,14.45
+389,2018,SV Sandhausen,14.3
+390,2018,MSV Duisburg,14.15
+391,2018,Greuther Fürth,14.1
+392,2018,Erzgebirge Aue,12.45
+393,2018,Jahn Regensburg,12.15
+394,2018,SC Paderborn,10.6
+395,2018,1.FC Magdeburg,10.55
+396,2008,VfR Aalen,8.55
+397,2008,Carl Zeiss Jena,6.55
+398,2008,F. Düsseldorf,6.2
+399,2008,SC Paderborn,5.85
+400,2008,Dynamo Dresden,5.8
+401,2008,K. Offenbach,5.6
+402,2008,Erzgebirge Aue,5.58
+403,2008,Wuppertaler SV,4.93
+404,2008,E. Braunschweig,4.9
+405,2008,Unterhaching,4.83
+406,2008,Union Berlin,4.68
+407,2008,SV Sandhausen,4.4
+408,2008,W. Bremen II,4.4
+409,2008,W. Burghausen,4.23
+410,2008,Stuttg. Kickers,3.93
+411,2008,Rot-Weiß Erfurt,3.83
+412,2008,Kickers Emden,3.8
+413,2008,Stuttgart II,3.25
+414,2008,Jahn Regensburg,2.78
+415,2008,B. München II,1.8
+416,2009,B. München II,28.53
+417,2009,B. Dortmund II,23.58
+418,2009,Stuttgart II,10.3
+419,2009,FC Ingolstadt,7.98
+420,2009,K. Offenbach,7.18
+421,2009,VfL Osnabrück,6.88
+422,2009,SV Sandhausen,6.8
+423,2009,Wehen Wiesbaden,6.43
+424,2009,Dynamo Dresden,6.0
+425,2009,Erzgebirge Aue,5.43
+426,2009,Rot-Weiß Erfurt,5.4
+427,2009,Wuppertaler SV,5.3
+428,2009,Holstein Kiel,5.25
+429,2009,Carl Zeiss Jena,5.18
+430,2009,Unterhaching,5.05
+431,2009,Jahn Regensburg,4.5
+432,2009,E. Braunschweig,4.38
+433,2009,W. Bremen II,4.23
+434,2009,W. Burghausen,3.43
+435,2009,1.FC Heidenheim,3.26
+436,2010,B. München II,15.18
+437,2010,W. Bremen II,8.43
+438,2010,Wehen Wiesbaden,8.2
+439,2010,K. Offenbach,7.03
+440,2010,Stuttgart II,6.83
+441,2010,Unterhaching,6.78
+442,2010,SV Sandhausen,6.68
+443,2010,Hansa Rostock,6.43
+444,2010,Dynamo Dresden,6.05
+445,2010,1.FC Heidenheim,6.03
+446,2010,Rot-Weiß Erfurt,5.28
+447,2010,VfR Aalen,5.05
+448,2010,E. Braunschweig,5.03
+449,2010,Carl Zeiss Jena,4.78
+450,2010,W. Burghausen,4.7
+451,2010,Jahn Regensburg,4.33
+452,2010,Rot Weiss Ahlen,4.0
+453,2010,Saarbrücken,3.63
+454,2010,TuS Koblenz,3.18
+455,2010,Babelsberg 03,2.5
+456,2011,W. Bremen II,11.28
+457,2011,Stuttgart II,8.73
+458,2011,Wehen Wiesbaden,8.33
+459,2011,1.FC Heidenheim,8.3
+460,2011,VfL Osnabrück,7.03
+461,2011,K. Offenbach,6.25
+462,2011,SV Sandhausen,6.23
+463,2011,Preußen Münster,6.13
+464,2011,Arm. Bielefeld,5.95
+465,2011,W. Burghausen,4.95
+466,2011,Saarbrücken,4.85
+467,2011,Carl Zeiss Jena,4.6
+468,2011,Chemnitzer FC,4.43
+469,2011,VfR Aalen,4.33
+470,2011,Jahn Regensburg,4.0
+471,2011,Rot-Weiß Erfurt,3.95
+472,2011,RW Oberhausen,3.83
+473,2011,Darmstadt 98,3.73
+474,2011,Unterhaching,3.63
+475,2011,Babelsberg 03,3.05
+476,2012,B. Dortmund II,23.83
+477,2012,Stuttgart II,9.58
+478,2012,Karlsruher SC,8.03
+479,2012,Hansa Rostock,8.03
+480,2012,1.FC Heidenheim,6.98
+481,2012,VfL Osnabrück,6.73
+482,2012,Arm. Bielefeld,6.43
+483,2012,Chemnitzer FC,6.23
+484,2012,Alem. Aachen,5.88
+485,2012,K. Offenbach,5.68
+486,2012,Hallescher FC,5.58
+487,2012,Wehen Wiesbaden,5.1
+488,2012,Rot-Weiß Erfurt,5.05
+489,2012,Preußen Münster,5.0
+490,2012,Darmstadt 98,4.7
+491,2012,W. Burghausen,4.65
+492,2012,Saarbrücken,4.58
+493,2012,Babelsberg 03,4.33
+494,2012,Unterhaching,4.18
+495,2012,Stuttg. Kickers,2.5
+496,2013,Stuttgart II,11.7
+497,2013,B. Dortmund II,11.45
+498,2013,Saarbrücken,9.03
+499,2013,RB Leipzig,8.3
+500,2013,1.FC Heidenheim,7.23
+501,2013,VfL Osnabrück,6.8
+502,2013,Chemnitzer FC,6.8
+503,2013,Preußen Münster,6.45
+504,2013,Wehen Wiesbaden,6.4
+505,2013,MSV Duisburg,6.15
+506,2013,Hallescher FC,6.0
+507,2013,Holstein Kiel,5.2
+508,2013,Stuttg. Kickers,4.95
+509,2013,Rot-Weiß Erfurt,4.93
+510,2013,Darmstadt 98,4.93
+511,2013,Jahn Regensburg,4.75
+512,2013,Hansa Rostock,4.55
+513,2013,SV Elversberg,4.48
+514,2013,W. Burghausen,4.23
+515,2013,Unterhaching,3.98
+516,2014,B. Dortmund II,31.2
+517,2014,Stuttgart II,30.35
+518,2014,Arm. Bielefeld,9.68
+519,2014,FSV Mainz 05 II,8.43
+520,2014,Jahn Regensburg,7.23
+521,2014,Wehen Wiesbaden,7.18
+522,2014,Hansa Rostock,7.1
+523,2014,Rot-Weiß Erfurt,6.85
+524,2014,VfL Osnabrück,6.7
+525,2014,MSV Duisburg,6.5
+526,2014,Chemnitzer FC,6.5
+527,2014,Energie Cottbus,6.4
+528,2014,Preußen Münster,6.3
+529,2014,Holstein Kiel,5.53
+530,2014,Hallescher FC,5.38
+531,2014,Dynamo Dresden,4.68
+532,2014,Stuttg. Kickers,4.45
+533,2014,Unterhaching,4.25
+534,2014,SC Fortuna Köln,3.85
+535,2014,Sonnenhof-Gr.,3.68
+536,2015,FSV Mainz 05 II,13.65
+537,2015,W. Bremen II,13.58
+538,2015,Wehen Wiesbaden,7.88
+539,2015,Dynamo Dresden,7.75
+540,2015,Stuttgart II,7.55
+541,2015,Chemnitzer FC,7.38
+542,2015,Holstein Kiel,7.03
+543,2015,Hansa Rostock,6.98
+544,2015,Erzgebirge Aue,6.6
+545,2015,Preußen Münster,6.58
+546,2015,Energie Cottbus,6.48
+547,2015,Stuttg. Kickers,6.45
+548,2015,VfR Aalen,5.68
+549,2015,VfL Osnabrück,5.6
+550,2015,Hallescher FC,5.53
+551,2015,Rot-Weiß Erfurt,5.5
+552,2015,Würzb. Kickers,4.75
+553,2015,SC Fortuna Köln,4.5
+554,2015,Sonnenhof-Gr.,4.45
+555,2015,1.FC Magdeburg,3.6
+556,2016,W. Bremen II,13.33
+557,2016,FSV Mainz 05 II,10.73
+558,2016,Holstein Kiel,7.78
+559,2016,Wehen Wiesbaden,7.58
+560,2016,SC Paderborn,7.33
+561,2016,Hansa Rostock,6.8
+562,2016,FSV Frankfurt,6.7
+563,2016,MSV Duisburg,6.65
+564,2016,1.FC Magdeburg,6.65
+565,2016,Preußen Münster,6.55
+566,2016,Chemnitzer FC,6.53
+567,2016,VfL Osnabrück,6.35
+568,2016,SC Fortuna Köln,5.38
+569,2016,Hallescher FC,5.15
+570,2016,Rot-Weiß Erfurt,5.0
+571,2016,Sonnenhof-Gr.,4.93
+572,2016,VfR Aalen,4.8
+573,2016,FSV Zwickau,3.98
+574,2016,Jahn Regensburg,3.8
+575,2016,SF Lotte,3.43
+576,2017,W. Bremen II,9.95
+577,2017,Würzb. Kickers,6.9
+578,2017,Wehen Wiesbaden,6.65
+579,2017,1.FC Magdeburg,6.55
+580,2017,VfL Osnabrück,6.53
+581,2017,Karlsruher SC,6.5
+582,2017,SF Lotte,5.88
+583,2017,Hansa Rostock,5.35
+584,2017,SC Paderborn,5.35
+585,2017,Hallescher FC,5.15
+586,2017,Rot-Weiß Erfurt,5.15
+587,2017,Sonnenhof-Gr.,5.03
+588,2017,Preußen Münster,5.0
+589,2017,Chemnitzer FC,4.93
+590,2017,FSV Zwickau,4.85
+591,2017,VfR Aalen,4.75
+592,2017,SC Fortuna Köln,4.63
+593,2017,SV Meppen,3.58
+594,2017,Unterhaching,2.9
+595,2017,Carl Zeiss Jena,2.7
+596,2018,E. Braunschweig,8.3
+597,2018,KFC Uerdingen,6.93
+598,2018,1.FC K'lautern,6.8
+599,2018,Wehen Wiesbaden,6.55
+600,2018,1860 München,6.13
+601,2018,Karlsruher SC,5.95
+602,2018,Unterhaching,5.73
+603,2018,Hansa Rostock,5.65
+604,2018,Würzb. Kickers,5.58
+605,2018,SV Meppen,5.48
+606,2018,Preußen Münster,5.45
+607,2018,SF Lotte,5.38
+608,2018,Carl Zeiss Jena,5.28
+609,2018,VfL Osnabrück,5.2
+610,2018,SC Fortuna Köln,5.15
+611,2018,Hallescher FC,5.15
+612,2018,Sonnenhof-Gr.,4.85
+613,2018,FSV Zwickau,4.75
+614,2018,Energie Cottbus,4.6
+615,2018,VfR Aalen,4.5
+616,2008,FC Chelsea,406.7
+617,2008,Manchester Utd.,356.1
+618,2008,FC Liverpool,257.23
+619,2008,FC Arsenal,250.85
+620,2008,Tottenham,212.6
+621,2008,Manchester City,206.8
+622,2008,FC Everton,162.55
+623,2008,Newcastle Utd.,134.95
+624,2008,FC Portsmouth,131.5
+625,2008,Aston Villa,111.8
+626,2008,AFC Sunderland,91.28
+627,2008,Blackburn Rov.,86.75
+628,2008,Bolton Wand.,82.4
+629,2008,West Ham Utd.,80.55
+630,2008,Middlesbrough,73.65
+631,2008,FC Fulham,73.1
+632,2008,West Brom,64.05
+633,2008,Wigan Athletic,61.6
+634,2008,Stoke City,49.7
+635,2008,Hull City,38.63
+636,2009,FC Chelsea,443.85
+637,2009,Manchester Utd.,362.95
+638,2009,FC Liverpool,336.6
+639,2009,Manchester City,314.9
+640,2009,FC Arsenal,281.0
+641,2009,Tottenham,249.2
+642,2009,FC Everton,221.55
+643,2009,Aston Villa,160.4
+644,2009,AFC Sunderland,131.7
+645,2009,West Ham Utd.,118.3
+646,2009,FC Portsmouth,99.85
+647,2009,FC Fulham,92.8
+648,2009,Blackburn Rov.,90.3
+649,2009,Bolton Wand.,85.33
+650,2009,Stoke City,76.8
+651,2009,Hull City,75.65
+652,2009,Wigan Athletic,73.9
+653,2009,Birmingham City,63.5
+654,2009,Wolverhampton,59.7
+655,2009,FC Burnley,38.45
+656,2010,FC Chelsea,446.15
+657,2010,Manchester Utd.,384.15
+658,2010,Manchester City,382.53
+659,2010,FC Liverpool,365.5
+660,2010,FC Arsenal,304.38
+661,2010,Tottenham,296.0
+662,2010,Aston Villa,207.75
+663,2010,FC Everton,178.53
+664,2010,West Ham Utd.,158.95
+665,2010,AFC Sunderland,137.33
+666,2010,FC Fulham,111.95
+667,2010,Birmingham City,102.9
+668,2010,Stoke City,96.4
+669,2010,Newcastle Utd.,95.65
+670,2010,Blackburn Rov.,95.1
+671,2010,Bolton Wand.,93.4
+672,2010,West Brom,85.03
+673,2010,Wolverhampton,76.8
+674,2010,Wigan Athletic,72.1
+675,2010,Blackpool,38.1
+676,2011,FC Chelsea,467.5
+677,2011,Manchester City,461.8
+678,2011,Manchester Utd.,398.25
+679,2011,Tottenham,316.0
+680,2011,FC Arsenal,312.43
+681,2011,FC Liverpool,247.75
+682,2011,FC Everton,190.18
+683,2011,Aston Villa,157.6
+684,2011,AFC Sunderland,125.05
+685,2011,Newcastle Utd.,120.53
+686,2011,Stoke City,119.05
+687,2011,FC Fulham,118.55
+688,2011,QPR,106.05
+689,2011,Bolton Wand.,98.15
+690,2011,Blackburn Rov.,90.65
+691,2011,Wolverhampton,82.0
+692,2011,West Brom,81.38
+693,2011,Wigan Athletic,70.0
+694,2011,Swansea City,40.55
+695,2011,Norwich City,22.5
+696,2012,Manchester City,510.15
+697,2012,Manchester Utd.,444.5
+698,2012,FC Chelsea,408.5
+699,2012,Tottenham,309.53
+700,2012,FC Arsenal,293.75
+701,2012,FC Liverpool,275.45
+702,2012,Newcastle Utd.,190.25
+703,2012,QPR,150.0
+704,2012,AFC Sunderland,127.0
+705,2012,FC Everton,124.8
+706,2012,FC Fulham,114.5
+707,2012,West Ham Utd.,114.45
+708,2012,Aston Villa,101.03
+709,2012,Stoke City,99.1
+710,2012,Swansea City,88.0
+711,2012,West Brom,83.0
+712,2012,Wigan Athletic,81.5
+713,2012,Norwich City,70.65
+714,2012,FC Southampton,68.85
+715,2012,FC Reading,44.0
+716,2013,FC Chelsea,582.98
+717,2013,Manchester Utd.,511.75
+718,2013,Manchester City,479.0
+719,2013,FC Arsenal,332.7
+720,2013,Tottenham,296.0
+721,2013,FC Liverpool,272.5
+722,2013,FC Everton,217.5
+723,2013,Newcastle Utd.,188.85
+724,2013,AFC Sunderland,151.25
+725,2013,FC Fulham,148.35
+726,2013,West Ham Utd.,128.25
+727,2013,Stoke City,126.0
+728,2013,Swansea City,118.58
+729,2013,Aston Villa,116.3
+730,2013,FC Southampton,102.5
+731,2013,Norwich City,95.75
+732,2013,Cardiff City,92.35
+733,2013,West Brom,91.95
+734,2013,Hull City,69.9
+735,2013,Crystal Palace,64.25
+736,2014,FC Chelsea,526.1
+737,2014,Manchester Utd.,522.4
+738,2014,Manchester City,478.0
+739,2014,FC Arsenal,404.35
+740,2014,Tottenham,298.25
+741,2014,FC Liverpool,285.0
+742,2014,FC Everton,177.5
+743,2014,FC Southampton,150.4
+744,2014,Newcastle Utd.,139.85
+745,2014,Stoke City,128.85
+746,2014,Aston Villa,127.0
+747,2014,West Ham Utd.,123.0
+748,2014,Hull City,122.25
+749,2014,AFC Sunderland,115.25
+750,2014,QPR,115.05
+751,2014,Swansea City,107.7
+752,2014,West Brom,100.6
+753,2014,Crystal Palace,89.3
+754,2014,Leicester City,55.85
+755,2014,FC Burnley,36.75
+756,2015,FC Chelsea,579.8
+757,2015,Manchester City,452.75
+758,2015,FC Arsenal,408.6
+759,2015,Manchester Utd.,374.15
+760,2015,FC Liverpool,325.0
+761,2015,Tottenham,253.75
+762,2015,FC Everton,204.13
+763,2015,Newcastle Utd.,200.65
+764,2015,FC Southampton,187.5
+765,2015,West Ham Utd.,185.2
+766,2015,Swansea City,138.2
+767,2015,AFC Sunderland,128.25
+768,2015,Stoke City,127.25
+769,2015,Crystal Palace,121.0
+770,2015,West Brom,117.0
+771,2015,Aston Villa,112.3
+772,2015,FC Watford,110.13
+773,2015,Norwich City,103.75
+774,2015,Leicester City,91.25
+775,2015,Bournemouth,68.03
+776,2016,Manchester City,621.4
+777,2016,FC Chelsea,603.3
+778,2016,Manchester Utd.,533.25
+779,2016,FC Arsenal,522.75
+780,2016,FC Liverpool,394.15
+781,2016,Tottenham,385.5
+782,2016,FC Everton,284.35
+783,2016,West Ham Utd.,240.78
+784,2016,Crystal Palace,215.7
+785,2016,FC Southampton,214.25
+786,2016,Stoke City,193.25
+787,2016,FC Watford,189.35
+788,2016,Leicester City,175.0
+789,2016,Swansea City,137.1
+790,2016,Hull City,132.95
+791,2016,Middlesbrough,121.75
+792,2016,West Brom,115.1
+793,2016,AFC Sunderland,112.5
+794,2016,Bournemouth,103.5
+795,2016,FC Burnley,81.8
+796,2017,Manchester Utd.,645.1
+797,2017,FC Chelsea,642.15
+798,2017,FC Arsenal,633.9
+799,2017,Manchester City,616.35
+800,2017,Tottenham,535.35
+801,2017,FC Liverpool,495.0
+802,2017,FC Everton,346.75
+803,2017,West Ham Utd.,264.85
+804,2017,Leicester City,252.1
+805,2017,FC Southampton,247.5
+806,2017,Crystal Palace,194.43
+807,2017,Stoke City,177.8
+808,2017,Swansea City,171.34
+809,2017,FC Watford,167.3
+810,2017,Newcastle Utd.,167.28
+811,2017,West Brom,165.5
+812,2017,Bournemouth,116.1
+813,2017,Brighton & Hove,106.75
+814,2017,FC Burnley,96.85
+815,2017,Huddersfield,64.4
+816,2018,Manchester City,1090.0
+817,2018,FC Liverpool,913.0
+818,2018,FC Chelsea,891.75
+819,2018,Tottenham,837.5
+820,2018,Manchester Utd.,835.0
+821,2018,FC Arsenal,574.0
+822,2018,FC Everton,426.0
+823,2018,Leicester City,344.5
+824,2018,West Ham Utd.,287.5
+825,2018,FC Southampton,266.1
+826,2018,FC Fulham,250.5
+827,2018,Crystal Palace,219.25
+828,2018,Wolverhampton,218.0
+829,2018,Bournemouth,192.25
+830,2018,FC Burnley,181.75
+831,2018,Brighton & Hove,177.0
+832,2018,Newcastle Utd.,174.0
+833,2018,FC Watford,167.7
+834,2018,Huddersfield,120.6
+835,2018,Cardiff City,94.15
+836,2008,Birmingham City,67.55
+837,2008,FC Reading,45.45
+838,2008,Derby County,34.1
+839,2008,Ipswich Town,30.5
+840,2008,Cardiff City,29.53
+841,2008,QPR,26.83
+842,2008,Charlton Athl.,25.93
+843,2008,Wolverhampton,25.43
+844,2008,Sheffield Utd.,23.33
+845,2008,FC Southampton,20.65
+846,2008,Crystal Palace,20.43
+847,2008,FC Burnley,18.78
+848,2008,Blackpool,18.58
+849,2008,Preston NE,18.28
+850,2008,FC Watford,16.63
+851,2008,Norwich City,16.55
+852,2008,Sheff Wed,14.85
+853,2008,Plymouth Argyle,14.83
+854,2008,Notting. Forest,13.55
+855,2008,Coventry City,12.7
+856,2008,FC Barnsley,11.95
+857,2008,Bristol City,9.18
+858,2008,Doncaster Rov.,7.53
+859,2008,Swansea City,6.58
+860,2009,Middlesbrough,96.75
+861,2009,Newcastle Utd.,79.55
+862,2009,West Brom,65.03
+863,2009,Sheffield Utd.,41.1
+864,2009,QPR,38.25
+865,2009,FC Reading,34.3
+866,2009,Ipswich Town,31.5
+867,2009,Notting. Forest,30.88
+868,2009,Derby County,30.33
+869,2009,Bristol City,29.28
+870,2009,Preston NE,27.75
+871,2009,Cardiff City,27.4
+872,2009,Swansea City,24.28
+873,2009,Sheff Wed,24.05
+874,2009,Blackpool,23.78
+875,2009,Coventry City,23.73
+876,2009,Plymouth Argyle,21.73
+877,2009,FC Watford,21.38
+878,2009,FC Barnsley,21.1
+879,2009,Leicester City,21.07
+880,2009,Crystal Palace,20.6
+881,2009,Doncaster Rov.,19.95
+882,2009,Scunthorpe Utd.,7.23
+883,2009,Peterborough,5.3
+884,2010,Leicester City,68.08
+885,2010,Middlesbrough,60.7
+886,2010,Cardiff City,58.05
+887,2010,Hull City,53.6
+888,2010,Notting. Forest,48.15
+889,2010,QPR,47.9
+890,2010,FC Portsmouth,41.0
+891,2010,FC Burnley,39.23
+892,2010,Ipswich Town,38.45
+893,2010,Sheffield Utd.,36.63
+894,2010,Preston NE,34.03
+895,2010,Leeds United,31.78
+896,2010,Swansea City,30.15
+897,2010,FC Barnsley,26.33
+898,2010,Derby County,25.85
+899,2010,Bristol City,25.45
+900,2010,FC Reading,23.6
+901,2010,Crystal Palace,23.4
+902,2010,Norwich City,21.43
+903,2010,Doncaster Rov.,19.65
+904,2010,FC Millwall,18.78
+905,2010,Coventry City,18.55
+906,2010,Scunthorpe Utd.,15.68
+907,2010,FC Watford,13.08
+908,2011,West Ham Utd.,121.63
+909,2011,Birmingham City,58.6
+910,2011,Leicester City,47.38
+911,2011,Notting. Forest,43.95
+912,2011,Doncaster Rov.,41.13
+913,2011,Ipswich Town,36.63
+914,2011,Middlesbrough,35.93
+915,2011,Blackpool,35.88
+916,2011,Bristol City,34.53
+917,2011,Leeds United,33.9
+918,2011,FC Burnley,32.65
+919,2011,Cardiff City,32.05
+920,2011,FC Portsmouth,31.9
+921,2011,Hull City,29.13
+922,2011,FC Reading,27.65
+923,2011,Crystal Palace,25.88
+924,2011,FC Southampton,25.88
+925,2011,FC Watford,22.5
+926,2011,Brighton & Hove,19.48
+927,2011,FC Barnsley,17.48
+928,2011,FC Millwall,16.75
+929,2011,Derby County,16.05
+930,2011,Coventry City,12.23
+931,2011,Peterborough,8.75
+932,2012,Wolverhampton,88.3
+933,2012,Blackburn Rov.,71.65
+934,2012,Bolton Wand.,66.2
+935,2012,Notting. Forest,44.8
+936,2012,Cardiff City,41.2
+937,2012,Sheff Wed,37.53
+938,2012,Middlesbrough,37.4
+939,2012,Leeds United,35.85
+940,2012,Hull City,33.65
+941,2012,Ipswich Town,32.5
+942,2012,Birmingham City,31.1
+943,2012,Brighton & Hove,30.3
+944,2012,Leicester City,29.8
+945,2012,Blackpool,28.78
+946,2012,Bristol City,26.55
+947,2012,Crystal Palace,25.73
+948,2012,FC Watford,25.48
+949,2012,FC Burnley,21.85
+950,2012,Huddersfield,21.15
+951,2012,FC Millwall,19.9
+952,2012,Charlton Athl.,14.18
+953,2012,FC Barnsley,13.4
+954,2012,Derby County,12.3
+955,2012,Peterborough,10.05
+956,2013,QPR,123.9
+957,2013,Wigan Athletic,91.2
+958,2013,Bolton Wand.,54.05
+959,2013,Notting. Forest,49.58
+960,2013,FC Reading,49.1
+961,2013,FC Watford,46.75
+962,2013,Blackburn Rov.,43.35
+963,2013,Middlesbrough,37.3
+964,2013,Blackpool,35.23
+965,2013,Leeds United,34.88
+966,2013,Leicester City,32.35
+967,2013,Sheff Wed,31.65
+968,2013,Brighton & Hove,29.88
+969,2013,FC Millwall,29.03
+970,2013,FC Barnsley,27.58
+971,2013,FC Burnley,23.03
+972,2013,Derby County,20.5
+973,2013,Birmingham City,20.23
+974,2013,Doncaster Rov.,19.0
+975,2013,Ipswich Town,18.53
+976,2013,Charlton Athl.,17.45
+977,2013,Bournemouth,16.75
+978,2013,Huddersfield,14.75
+979,2013,Yeovil Town,11.88
+980,2014,Norwich City,82.35
+981,2014,Cardiff City,70.03
+982,2014,Wigan Athletic,68.95
+983,2014,Derby County,52.75
+984,2014,Bolton Wand.,49.1
+985,2014,FC Watford,47.6
+986,2014,Notting. Forest,46.4
+987,2014,Middlesbrough,44.78
+988,2014,FC Fulham,43.25
+989,2014,FC Reading,42.3
+990,2014,Blackburn Rov.,40.45
+991,2014,Brighton & Hove,39.4
+992,2014,Leeds United,31.95
+993,2014,Charlton Athl.,31.7
+994,2014,Wolverhampton,26.38
+995,2014,Ipswich Town,24.55
+996,2014,Blackpool,24.13
+997,2014,Rotherham Utd.,23.8
+998,2014,Huddersfield,23.1
+999,2014,FC Millwall,22.93
+1000,2014,Bournemouth,21.9
+1001,2014,Sheff Wed,18.35
+1002,2014,Birmingham City,17.33
+1003,2014,Brentford,13.6
+1004,2015,Hull City,76.68
+1005,2015,Middlesbrough,72.33
+1006,2015,QPR,70.7
+1007,2015,Cardiff City,54.6
+1008,2015,Derby County,52.6
+1009,2015,Notting. Forest,49.25
+1010,2015,Sheff Wed,44.55
+1011,2015,FC Burnley,44.0
+1012,2015,FC Reading,42.98
+1013,2015,Blackburn Rov.,42.5
+1014,2015,FC Fulham,38.1
+1015,2015,Brighton & Hove,34.15
+1016,2015,Charlton Athl.,32.45
+1017,2015,Wolverhampton,29.7
+1018,2015,Leeds United,28.0
+1019,2015,Birmingham City,26.33
+1020,2015,Brentford,25.33
+1021,2015,Bristol City,24.5
+1022,2015,Rotherham Utd.,23.43
+1023,2015,Ipswich Town,23.33
+1024,2015,Huddersfield,22.75
+1025,2015,Bolton Wand.,20.43
+1026,2015,MK Dons,12.55
+1027,2015,Preston NE,12.35
+1028,2016,Newcastle Utd.,168.65
+1029,2016,Aston Villa,126.35
+1030,2016,Norwich City,81.75
+1031,2016,Derby County,72.8
+1032,2016,Sheff Wed,63.55
+1033,2016,FC Fulham,57.5
+1034,2016,Wolverhampton,52.4
+1035,2016,Notting. Forest,51.45
+1036,2016,Cardiff City,50.45
+1037,2016,QPR,49.4
+1038,2016,Brighton & Hove,44.0
+1039,2016,FC Reading,41.65
+1040,2016,Leeds United,32.35
+1041,2016,Birmingham City,29.75
+1042,2016,Wigan Athletic,29.03
+1043,2016,Blackburn Rov.,26.65
+1044,2016,Bristol City,23.9
+1045,2016,Brentford,23.4
+1046,2016,Ipswich Town,23.23
+1047,2016,Preston NE,20.35
+1048,2016,Huddersfield,19.0
+1049,2016,Rotherham Utd.,16.95
+1050,2016,Burton Albion,16.63
+1051,2016,FC Barnsley,8.98
+1052,2017,Aston Villa,105.5
+1053,2017,Middlesbrough,91.5
+1054,2017,Wolverhampton,86.85
+1055,2017,AFC Sunderland,78.75
+1056,2017,FC Fulham,72.4
+1057,2017,Derby County,71.18
+1058,2017,Sheff Wed,70.13
+1059,2017,Norwich City,59.85
+1060,2017,Hull City,59.25
+1061,2017,Leeds United,54.95
+1062,2017,Cardiff City,48.45
+1063,2017,FC Reading,47.4
+1064,2017,Notting. Forest,47.35
+1065,2017,Birmingham City,43.05
+1066,2017,QPR,38.05
+1067,2017,Brentford,31.2
+1068,2017,Bolton Wand.,29.95
+1069,2017,Bristol City,28.5
+1070,2017,Ipswich Town,23.55
+1071,2017,Burton Albion,16.55
+1072,2017,FC Millwall,15.53
+1073,2017,FC Barnsley,15.3
+1074,2017,Sheffield Utd.,15.18
+1075,2017,Preston NE,11.25
+1076,2018,Stoke City,148.75
+1077,2018,Aston Villa,109.75
+1078,2018,West Brom,108.2
+1079,2018,Middlesbrough,86.2
+1080,2018,Swansea City,65.35
+1081,2018,Notting. Forest,64.5
+1082,2018,Leeds United,64.1
+1083,2018,Derby County,62.6
+1084,2018,Brentford,51.1
+1085,2018,FC Reading,48.05
+1086,2018,Sheff Wed,47.75
+1087,2018,Hull City,45.85
+1088,2018,Norwich City,45.78
+1089,2018,Bristol City,40.15
+1090,2018,QPR,36.9
+1091,2018,Sheffield Utd.,32.7
+1092,2018,Birmingham City,27.75
+1093,2018,Blackburn Rov.,25.75
+1094,2018,Wigan Athletic,24.3
+1095,2018,Bolton Wand.,20.9
+1096,2018,Ipswich Town,20.25
+1097,2018,FC Millwall,16.1
+1098,2018,Preston NE,15.55
+1099,2018,Rotherham Utd.,7.25
+1100,2008,Leicester City,15.3
+1101,2008,Leeds United,14.28
+1102,2008,FC Millwall,10.43
+1103,2008,Carlisle United,9.73
+1104,2008,Brighton & Hove,9.38
+1105,2008,Huddersfield,8.05
+1106,2008,Colchester Utd.,6.15
+1107,2008,Oldham Athletic,6.0
+1108,2008,Southend United,5.4
+1109,2008,Scunthorpe Utd.,5.3
+1110,2008,Swindon Town,5.13
+1111,2008,Leyton Orient,4.25
+1112,2008,Crewe Alexandra,3.8
+1113,2008,Hartlepool Utd.,3.63
+1114,2008,Hereford Utd.,3.38
+1115,2008,Yeovil Town,3.33
+1116,2008,MK Dons,3.33
+1117,2008,Tranmere Rovers,2.73
+1118,2008,FC Walsall,2.7
+1119,2008,Northampt. Town,2.68
+1120,2008,Cheltenham Town,2.38
+1121,2008,Peterborough,1.98
+1122,2008,Bristol Rovers,1.93
+1123,2008,Stockport,1.65
+1124,2009,Leeds United,21.93
+1125,2009,FC Southampton,19.63
+1126,2009,Norwich City,19.28
+1127,2009,Charlton Athl.,18.58
+1128,2009,Colchester Utd.,13.83
+1129,2009,Brighton & Hove,13.0
+1130,2009,MK Dons,9.6
+1131,2009,Wycombe Wand.,9.4
+1132,2009,Oldham Athletic,9.38
+1133,2009,Leyton Orient,9.1
+1134,2009,Carlisle United,8.5
+1135,2009,Swindon Town,6.7
+1136,2009,Southend United,6.55
+1137,2009,Exeter City,6.5
+1138,2009,FC Millwall,6.2
+1139,2009,FC Walsall,5.63
+1140,2009,Tranmere Rovers,5.6
+1141,2009,Bristol Rovers,5.25
+1142,2009,Huddersfield,4.88
+1143,2009,Yeovil Town,4.85
+1144,2009,Brentford,3.95
+1145,2009,Stockport,3.58
+1146,2009,FC Gillingham,3.58
+1147,2009,Hartlepool Utd.,2.75
+1148,2010,Sheff Wed,23.08
+1149,2010,Huddersfield,19.2
+1150,2010,FC Southampton,17.83
+1151,2010,Notts County,16.8
+1152,2010,Charlton Athl.,15.95
+1153,2010,Plymouth Argyle,15.73
+1154,2010,Brentford,11.25
+1155,2010,Peterborough,10.95
+1156,2010,MK Dons,10.73
+1157,2010,Carlisle United,10.33
+1158,2010,FC Walsall,9.03
+1159,2010,Bristol Rovers,9.0
+1160,2010,Brighton & Hove,8.5
+1161,2010,Colchester Utd.,8.18
+1162,2010,Leyton Orient,8.05
+1163,2010,Yeovil Town,7.68
+1164,2010,Swindon Town,7.43
+1165,2010,Oldham Athletic,6.63
+1166,2010,Exeter City,5.78
+1167,2010,Tranmere Rovers,5.05
+1168,2010,Hartlepool Utd.,4.85
+1169,2010,Bournemouth,4.85
+1170,2010,AFC Rochdale,4.65
+1171,2010,FC Dag & Red,4.08
+1172,2011,Sheffield Utd.,22.8
+1173,2011,Sheff Wed,20.33
+1174,2011,Preston NE,17.28
+1175,2011,Charlton Athl.,15.25
+1176,2011,Huddersfield,12.88
+1177,2011,MK Dons,12.45
+1178,2011,Leyton Orient,11.7
+1179,2011,Notts County,11.43
+1180,2011,Wycombe Wand.,11.1
+1181,2011,Yeovil Town,10.68
+1182,2011,Brentford,9.65
+1183,2011,Colchester Utd.,9.53
+1184,2011,Exeter City,8.95
+1185,2011,AFC Rochdale,8.83
+1186,2011,FC Chesterfield,8.75
+1187,2011,Bournemouth,7.58
+1188,2011,Carlisle United,7.5
+1189,2011,FC Walsall,6.58
+1190,2011,Scunthorpe Utd.,6.5
+1191,2011,Oldham Athletic,5.08
+1192,2011,Hartlepool Utd.,5.03
+1193,2011,FC Stevenage,4.93
+1194,2011,Bury,4.03
+1195,2011,Tranmere Rovers,3.0
+1196,2012,Sheffield Utd.,15.3
+1197,2012,FC Portsmouth,14.58
+1198,2012,Coventry City,10.75
+1199,2012,Doncaster Rov.,9.63
+1200,2012,Bury,9.63
+1201,2012,Bournemouth,9.15
+1202,2012,MK Dons,8.98
+1203,2012,Oldham Athletic,7.98
+1204,2012,Preston NE,7.9
+1205,2012,Shrewsbury Town,7.75
+1206,2012,Colchester Utd.,7.43
+1207,2012,Leyton Orient,7.28
+1208,2012,Swindon Town,7.08
+1209,2012,FC Stevenage,7.05
+1210,2012,Scunthorpe Utd.,6.9
+1211,2012,Brentford,6.68
+1212,2012,Notts County,6.4
+1213,2012,Yeovil Town,6.18
+1214,2012,Crawley Town,6.0
+1215,2012,Carlisle United,5.3
+1216,2012,Hartlepool Utd.,4.3
+1217,2012,FC Walsall,3.73
+1218,2012,Tranmere Rovers,2.4
+1219,2012,Crewe Alexandra,1.95
+1220,2013,Wolverhampton,35.0
+1221,2013,Bristol City,19.1
+1222,2013,Sheffield Utd.,13.98
+1223,2013,Rotherham Utd.,10.53
+1224,2013,Coventry City,10.05
+1225,2013,Peterborough,9.78
+1226,2013,Bradford City,9.45
+1227,2013,Preston NE,8.58
+1228,2013,Notts County,7.63
+1229,2013,Oldham Athletic,7.6
+1230,2013,Brentford,6.95
+1231,2013,MK Dons,6.75
+1232,2013,Leyton Orient,6.73
+1233,2013,Carlisle United,6.53
+1234,2013,FC Stevenage,6.05
+1235,2013,Crawley Town,5.75
+1236,2013,Shrewsbury Town,5.55
+1237,2013,Tranmere Rovers,5.43
+1238,2013,Colchester Utd.,5.08
+1239,2013,Swindon Town,4.93
+1240,2013,FC Gillingham,4.68
+1241,2013,Port Vale,3.83
+1242,2013,FC Walsall,3.78
+1243,2013,Crewe Alexandra,3.18
+1244,2014,Sheffield Utd.,15.38
+1245,2014,Leyton Orient,12.15
+1246,2014,Bristol City,10.6
+1247,2014,Yeovil Town,9.38
+1248,2014,Coventry City,9.38
+1249,2014,Peterborough,9.08
+1250,2014,FC Barnsley,8.98
+1251,2014,Oldham Athletic,8.95
+1252,2014,Bradford City,8.9
+1253,2014,Scunthorpe Utd.,8.85
+1254,2014,Preston NE,8.65
+1255,2014,Colchester Utd.,7.5
+1256,2014,MK Dons,7.35
+1257,2014,Crawley Town,6.98
+1258,2014,Doncaster Rov.,6.95
+1259,2014,Notts County,6.53
+1260,2014,Port Vale,6.5
+1261,2014,Crewe Alexandra,5.78
+1262,2014,FC Chesterfield,5.63
+1263,2014,Fleetwood Town,5.43
+1264,2014,AFC Rochdale,4.65
+1265,2014,Swindon Town,4.0
+1266,2014,FC Walsall,3.73
+1267,2014,FC Gillingham,3.05
+1268,2015,Wigan Athletic,17.2
+1269,2015,Sheffield Utd.,14.85
+1270,2015,Coventry City,14.1
+1271,2015,FC Millwall,9.5
+1272,2015,Bradford City,9.3
+1273,2015,Oldham Athletic,8.68
+1274,2015,Peterborough,8.03
+1275,2015,Colchester Utd.,7.68
+1276,2015,Doncaster Rov.,7.2
+1277,2015,Bury,7.18
+1278,2015,FC Chesterfield,6.73
+1279,2015,Scunthorpe Utd.,6.53
+1280,2015,Fleetwood Town,6.48
+1281,2015,Shrewsbury Town,6.48
+1282,2015,Southend United,5.75
+1283,2015,Swindon Town,5.6
+1284,2015,FC Barnsley,5.48
+1285,2015,AFC Rochdale,4.83
+1286,2015,Burton Albion,4.46
+1287,2015,FC Walsall,4.23
+1288,2015,Blackpool,4.06
+1289,2015,Port Vale,3.85
+1290,2015,FC Gillingham,3.73
+1291,2015,Crewe Alexandra,3.58
+1292,2016,Bolton Wand.,23.3
+1293,2016,Charlton Athl.,18.3
+1294,2016,Bury,9.85
+1295,2016,Sheffield Utd.,9.65
+1296,2016,MK Dons,8.5
+1297,2016,FC Gillingham,8.18
+1298,2016,Coventry City,7.88
+1299,2016,Port Vale,7.85
+1300,2016,Northampt. Town,7.23
+1301,2016,FC Millwall,7.18
+1302,2016,Southend United,6.98
+1303,2016,Peterborough,6.68
+1304,2016,Scunthorpe Utd.,6.65
+1305,2016,Bradford City,6.63
+1306,2016,Swindon Town,6.48
+1307,2016,Oldham Athletic,5.98
+1308,2016,Fleetwood Town,5.58
+1309,2016,Shrewsbury Town,5.38
+1310,2016,Oxford United,4.8
+1311,2016,AFC Rochdale,4.18
+1312,2016,FC Chesterfield,3.9
+1313,2016,FC Walsall,3.88
+1314,2016,AFC Wimbledon,3.48
+1315,2016,Bristol Rovers,2.9
+1316,2017,Blackburn Rov.,18.5
+1317,2017,Wigan Athletic,15.85
+1318,2017,Charlton Athl.,12.4
+1319,2017,MK Dons,11.83
+1320,2017,Northampt. Town,11.1
+1321,2017,Oxford United,10.18
+1322,2017,Oldham Athletic,10.05
+1323,2017,Bury,9.23
+1324,2017,Scunthorpe Utd.,8.6
+1325,2017,Southend United,7.53
+1326,2017,Rotherham Utd.,7.33
+1327,2017,Plymouth Argyle,7.28
+1328,2017,Fleetwood Town,6.53
+1329,2017,FC Portsmouth,6.33
+1330,2017,Peterborough,5.68
+1331,2017,Bradford City,5.6
+1332,2017,Blackpool,5.5
+1333,2017,AFC Rochdale,5.35
+1334,2017,AFC Wimbledon,5.13
+1335,2017,FC Gillingham,4.43
+1336,2017,Bristol Rovers,3.55
+1337,2017,Doncaster Rov.,3.55
+1338,2017,FC Walsall,3.25
+1339,2017,Shrewsbury Town,2.95
+1340,2018,AFC Sunderland,23.2
+1341,2018,Charlton Athl.,11.65
+1342,2018,FC Barnsley,10.55
+1343,2018,Scunthorpe Utd.,9.55
+1344,2018,Fleetwood Town,9.45
+1345,2018,FC Portsmouth,6.9
+1346,2018,Burton Albion,6.75
+1347,2018,Oxford United,6.7
+1348,2018,Peterborough,6.6
+1349,2018,Southend United,6.28
+1350,2018,AFC Rochdale,6.2
+1351,2018,Plymouth Argyle,5.95
+1352,2018,Bradford City,5.35
+1353,2018,Blackpool,5.25
+1354,2018,Luton Town,4.93
+1355,2018,Wycombe Wand.,4.33
+1356,2018,FC Walsall,4.15
+1357,2018,Bristol Rovers,4.08
+1358,2018,Shrewsbury Town,3.88
+1359,2018,Coventry City,3.43
+1360,2018,Doncaster Rov.,3.2
+1361,2018,AFC Wimbledon,3.13
+1362,2018,FC Gillingham,2.85
+1363,2018,Accrington St.,1.88
+1364,2008,FC Barcelona,367.3
+1365,2008,Real Madrid,361.3
+1366,2008,FC Valencia,198.5
+1367,2008,Atlético Madrid,193.8
+1368,2008,FC Sevilla,170.1
+1369,2008,FC Villarreal,131.3
+1370,2008,Esp. Barcelona,111.7
+1371,2008,Betis Sevilla,93.1
+1372,2008,CA Osasuna,67.85
+1373,2008,Rac. Santander,66.9
+1374,2008,RCD Mallorca,64.7
+1375,2008,Dep. La Coruna,62.8
+1376,2008,FC Getafe,62.7
+1377,2008,Athletic,59.9
+1378,2008,UD Almería,59.35
+1379,2008,Recr. Huelva,46.68
+1380,2008,Real Valladolid,44.4
+1381,2008,FC Málaga,39.65
+1382,2008,CD Numancia,28.1
+1383,2008,Sporting Gijón,19.7
+1384,2009,Real Madrid,489.4
+1385,2009,FC Barcelona,425.5
+1386,2009,FC Sevilla,213.8
+1387,2009,FC Valencia,213.8
+1388,2009,Atlético Madrid,210.4
+1389,2009,FC Villarreal,166.7
+1390,2009,Real Saragossa,87.5
+1391,2009,Rac. Santander,78.7
+1392,2009,Athletic,76.35
+1393,2009,Esp. Barcelona,73.7
+1394,2009,FC Getafe,73.5
+1395,2009,UD Almería,64.4
+1396,2009,Dep. La Coruna,62.5
+1397,2009,FC Málaga,60.8
+1398,2009,CA Osasuna,54.8
+1399,2009,RCD Mallorca,51.1
+1400,2009,Real Valladolid,49.9
+1401,2009,Sporting Gijón,42.7
+1402,2009,Deportivo Xerez,32.5
+1403,2009,CD Teneriffa,21.6
+1404,2010,FC Barcelona,561.1
+1405,2010,Real Madrid,506.9
+1406,2010,FC Sevilla,225.15
+1407,2010,Atlético Madrid,196.6
+1408,2010,FC Valencia,178.1
+1409,2010,FC Villarreal,145.1
+1410,2010,Athletic,98.3
+1411,2010,FC Málaga,82.6
+1412,2010,Dep. La Coruna,74.35
+1413,2010,FC Getafe,68.6
+1414,2010,Real Saragossa,67.0
+1415,2010,CA Osasuna,66.55
+1416,2010,UD Almería,64.35
+1417,2010,Rac. Santander,62.35
+1418,2010,Hércules,61.55
+1419,2010,Esp. Barcelona,61.1
+1420,2010,Sporting Gijón,57.6
+1421,2010,RCD Mallorca,54.23
+1422,2010,Real Sociedad,43.5
+1423,2010,UD Levante,27.3
+1424,2011,FC Barcelona,621.5
+1425,2011,Real Madrid,525.2
+1426,2011,Atlético Madrid,202.1
+1427,2011,FC Valencia,169.9
+1428,2011,FC Villarreal,150.15
+1429,2011,FC Sevilla,145.5
+1430,2011,FC Málaga,128.2
+1431,2011,Athletic,114.7
+1432,2011,FC Getafe,79.5
+1433,2011,Esp. Barcelona,74.6
+1434,2011,Real Saragossa,72.5
+1435,2011,Real Sociedad,70.0
+1436,2011,RCD Mallorca,61.1
+1437,2011,FC Granada,51.7
+1438,2011,Sporting Gijón,49.75
+1439,2011,Betis Sevilla,46.7
+1440,2011,Rac. Santander,43.6
+1441,2011,UD Levante,41.6
+1442,2011,CA Osasuna,40.35
+1443,2011,Rayo Vallecano,34.0
+1444,2012,FC Barcelona,621.0
+1445,2012,Real Madrid,593.5
+1446,2012,Atlético Madrid,177.5
+1447,2012,FC Valencia,171.2
+1448,2012,FC Sevilla,134.1
+1449,2012,Athletic,117.6
+1450,2012,FC Málaga,111.3
+1451,2012,FC Granada,77.7
+1452,2012,FC Getafe,70.7
+1453,2012,Real Sociedad,69.0
+1454,2012,RCD Mallorca,59.85
+1455,2012,Dep. La Coruna,59.3
+1456,2012,Esp. Barcelona,58.9
+1457,2012,Betis Sevilla,51.4
+1458,2012,UD Levante,51.35
+1459,2012,Real Saragossa,50.05
+1460,2012,CA Osasuna,46.4
+1461,2012,Rayo Vallecano,41.7
+1462,2012,Celta Vigo,36.95
+1463,2012,Real Valladolid,23.85
+1464,2013,FC Barcelona,620.35
+1465,2013,Real Madrid,606.6
+1466,2013,Atlético Madrid,262.1
+1467,2013,FC Valencia,180.65
+1468,2013,FC Sevilla,147.1
+1469,2013,Real Sociedad,116.1
+1470,2013,Athletic,115.1
+1471,2013,FC Granada,70.75
+1472,2013,Betis Sevilla,69.0
+1473,2013,FC Getafe,65.1
+1474,2013,FC Málaga,64.88
+1475,2013,FC Villarreal,62.8
+1476,2013,Celta Vigo,56.0
+1477,2013,Esp. Barcelona,55.7
+1478,2013,FC Elche,53.3
+1479,2013,UD Levante,45.9
+1480,2013,CA Osasuna,44.3
+1481,2013,Rayo Vallecano,43.85
+1482,2013,Real Valladolid,40.88
+1483,2013,UD Almería,33.8
+1484,2014,Real Madrid,647.65
+1485,2014,FC Barcelona,598.45
+1486,2014,Atlético Madrid,289.0
+1487,2014,FC Valencia,137.3
+1488,2014,FC Sevilla,122.85
+1489,2014,Athletic,110.5
+1490,2014,Real Sociedad,107.3
+1491,2014,FC Villarreal,88.6
+1492,2014,FC Málaga,62.35
+1493,2014,FC Granada,60.98
+1494,2014,Esp. Barcelona,55.1
+1495,2014,Rayo Vallecano,52.6
+1496,2014,Dep. La Coruna,48.6
+1497,2014,FC Getafe,48.15
+1498,2014,UD Levante,47.1
+1499,2014,FC Córdoba,44.7
+1500,2014,Celta Vigo,39.4
+1501,2014,FC Elche,31.38
+1502,2014,UD Almería,25.1
+1503,2014,SD Eibar,21.1
+1504,2015,Real Madrid,700.75
+1505,2015,FC Barcelona,618.5
+1506,2015,Atlético Madrid,336.0
+1507,2015,FC Valencia,254.5
+1508,2015,FC Sevilla,186.5
+1509,2015,Athletic,122.9
+1510,2015,Real Sociedad,122.25
+1511,2015,FC Villarreal,115.3
+1512,2015,FC Málaga,78.2
+1513,2015,FC Granada,73.2
+1514,2015,Betis Sevilla,72.45
+1515,2015,UD Levante,68.2
+1516,2015,Celta Vigo,63.8
+1517,2015,Esp. Barcelona,61.7
+1518,2015,FC Getafe,55.15
+1519,2015,Rayo Vallecano,53.8
+1520,2015,Dep. La Coruna,51.35
+1521,2015,SD Eibar,45.95
+1522,2015,Sporting Gijón,30.5
+1523,2015,UD Las Palmas,29.25
+1524,2016,FC Barcelona,787.2
+1525,2016,Real Madrid,743.1
+1526,2016,Atlético Madrid,456.9
+1527,2016,FC Valencia,286.4
+1528,2016,FC Sevilla,236.4
+1529,2016,FC Villarreal,158.7
+1530,2016,Athletic,151.6
+1531,2016,Real Sociedad,110.5
+1532,2016,Celta Vigo,95.5
+1533,2016,Dep. La Coruna,92.8
+1534,2016,FC Granada,85.5
+1535,2016,Esp. Barcelona,84.7
+1536,2016,Betis Sevilla,76.8
+1537,2016,FC Málaga,73.9
+1538,2016,UD Las Palmas,55.9
+1539,2016,SD Eibar,52.1
+1540,2016,Sporting Gijón,50.5
+1541,2016,CD Leganés,47.3
+1542,2016,Dep. Alavés,39.8
+1543,2016,CA Osasuna,36.9
+1544,2017,FC Barcelona,725.7
+1545,2017,Real Madrid,716.2
+1546,2017,Atlético Madrid,585.0
+1547,2017,FC Sevilla,269.45
+1548,2017,FC Valencia,230.9
+1549,2017,FC Villarreal,196.7
+1550,2017,Athletic,188.5
+1551,2017,Real Sociedad,165.1
+1552,2017,UD Las Palmas,123.0
+1553,2017,Celta Vigo,114.65
+1554,2017,Betis Sevilla,96.55
+1555,2017,Dep. La Coruna,89.4
+1556,2017,FC Málaga,88.43
+1557,2017,Esp. Barcelona,85.45
+1558,2017,SD Eibar,71.75
+1559,2017,Dep. Alavés,64.85
+1560,2017,UD Levante,59.35
+1561,2017,CD Leganés,53.6
+1562,2017,FC Getafe,48.75
+1563,2017,FC Girona,35.6
+1564,2018,FC Barcelona,1230.0
+1565,2018,Real Madrid,1030.0
+1566,2018,Atlético Madrid,898.0
+1567,2018,FC Valencia,422.0
+1568,2018,FC Sevilla,256.0
+1569,2018,Real Sociedad,215.0
+1570,2018,Athletic,207.8
+1571,2018,FC Villarreal,196.1
+1572,2018,Celta Vigo,190.6
+1573,2018,Betis Sevilla,190.0
+1574,2018,Esp. Barcelona,103.4
+1575,2018,CD Leganés,86.7
+1576,2018,FC Girona,86.3
+1577,2018,UD Levante,86.0
+1578,2018,FC Getafe,80.4
+1579,2018,Dep. Alavés,66.6
+1580,2018,SD Eibar,55.7
+1581,2018,Rayo Vallecano,55.0
+1582,2018,Real Valladolid,42.4
+1583,2018,SD Huesca,36.7
+1584,2008,Real Saragossa,60.8
+1585,2008,Real Sociedad,35.5
+1586,2008,Real Murcia,28.55
+1587,2008,Celta Vigo,25.3
+1588,2008,Hércules,22.9
+1589,2008,CD Teneriffa,18.6
+1590,2008,Deportivo Xerez,17.35
+1591,2008,Gimnàstic,16.9
+1592,2008,FC Elche,15.95
+1593,2008,FC Córdoba,15.6
+1594,2008,UD Levante,15.05
+1595,2008,CD Castellón,14.25
+1596,2008,Dep. Alavés,14.2
+1597,2008,UD Salamanca,12.75
+1598,2008,Albacete,12.7
+1599,2008,UD Las Palmas,11.75
+1600,2008,SD Eibar,10.0
+1601,2008,Rayo Vallecano,9.1
+1602,2008,FC Sevilla B,8.4
+1603,2008,Alicante CF,7.8
+1604,2008,FC Girona,5.15
+1605,2008,SD Huesca,4.6
+1606,2009,Betis Sevilla,99.0
+1607,2009,Hércules,32.15
+1608,2009,CD Numancia,30.7
+1609,2009,Recr. Huelva,28.1
+1610,2009,Real Sociedad,27.5
+1611,2009,UD Las Palmas,21.7
+1612,2009,UD Levante,21.6
+1613,2009,Real Murcia,20.05
+1614,2009,Celta Vigo,19.9
+1615,2009,FC Elche,19.7
+1616,2009,Rayo Vallecano,19.3
+1617,2009,Albacete,18.3
+1618,2009,Gimnàstic,16.45
+1619,2009,FC Cartagena,16.45
+1620,2009,FC Girona,13.9
+1621,2009,FC Córdoba,13.15
+1622,2009,CD Castellón,10.8
+1623,2009,UD Salamanca,10.8
+1624,2009,SD Huesca,9.75
+1625,2009,Real Unión,7.6
+1626,2009,FC Cádiz,7.55
+1627,2009,FC Villarreal B,6.7
+1628,2010,Betis Sevilla,45.5
+1629,2010,Real Valladolid,39.35
+1630,2010,CD Teneriffa,37.8
+1631,2010,CD Numancia,20.8
+1632,2010,Deportivo Xerez,20.45
+1633,2010,FC Cartagena,19.95
+1634,2010,FC Elche,19.9
+1635,2010,Rayo Vallecano,19.85
+1636,2010,Celta Vigo,17.3
+1637,2010,FC Córdoba,16.1
+1638,2010,Gimnàstic,15.6
+1639,2010,Recr. Huelva,14.9
+1640,2010,FC Villarreal B,14.45
+1641,2010,Albacete,14.4
+1642,2010,UD Las Palmas,13.45
+1643,2010,FC Girona,12.9
+1644,2010,FC Granada,12.08
+1645,2010,UD Salamanca,11.9
+1646,2010,SD Huesca,11.1
+1647,2010,Ponferradina,9.1
+1648,2010,FC Barcelona B,4.8
+1649,2010,Alcorcón,2.2
+1650,2011,Dep. La Coruna,45.7
+1651,2011,UD Almería,31.0
+1652,2011,Real Valladolid,25.9
+1653,2011,Hércules,23.7
+1654,2011,FC Barcelona B,22.9
+1655,2011,FC Cartagena,21.65
+1656,2011,FC Elche,21.5
+1657,2011,Celta Vigo,19.2
+1658,2011,FC Girona,18.8
+1659,2011,FC Córdoba,17.6
+1660,2011,Deportivo Xerez,17.3
+1661,2011,Gimnàstic,15.68
+1662,2011,CD Numancia,15.1
+1663,2011,FC Villarreal B,14.73
+1664,2011,UD Las Palmas,14.2
+1665,2011,SD Huesca,12.35
+1666,2011,Recr. Huelva,11.6
+1667,2011,Alcorcón,10.4
+1668,2011,Real Murcia,7.2
+1669,2011,CE Sabadell ,7.03
+1670,2011,CD Alcoyano,1.4
+1671,2011,CD Guadalajara,0.6
+1672,2012,FC Villarreal,60.25
+1673,2012,Sporting Gijón,37.2
+1674,2012,UD Almería,24.13
+1675,2012,Hércules,24.1
+1676,2012,Rac. Santander,20.2
+1677,2012,FC Barcelona B,19.2
+1678,2012,Deportivo Xerez,18.6
+1679,2012,Real Murcia,18.2
+1680,2012,FC Elche,17.3
+1681,2012,UD Las Palmas,16.75
+1682,2012,FC Córdoba,16.7
+1683,2012,CD Numancia,13.2
+1684,2012,FC Girona,12.9
+1685,2012,CE Sabadell ,12.9
+1686,2012,Recr. Huelva,11.78
+1687,2012,Alcorcón,11.3
+1688,2012,Real Madrid B,10.2
+1689,2012,CD Mirandés,9.2
+1690,2012,SD Huesca,9.2
+1691,2012,Ponferradina,8.0
+1692,2012,CD Lugo,7.5
+1693,2012,CD Guadalajara,4.7
+1694,2013,RCD Mallorca,40.55
+1695,2013,Dep. La Coruna,29.8
+1696,2013,Real Saragossa,28.15
+1697,2013,UD Las Palmas,22.35
+1698,2013,Real Madrid B,20.6
+1699,2013,Sporting Gijón,20.0
+1700,2013,FC Barcelona B,18.1
+1701,2013,Hércules,15.1
+1702,2013,FC Córdoba,14.95
+1703,2013,Recr. Huelva,14.18
+1704,2013,Alcorcón,13.05
+1705,2013,FC Girona,12.8
+1706,2013,Dep. Alavés,12.6
+1707,2013,Ponferradina,11.0
+1708,2013,CD Numancia,10.8
+1709,2013,Real Murcia,9.2
+1710,2013,CE Sabadell ,8.95
+1711,2013,CD Mirandés,8.4
+1712,2013,CD Lugo,6.9
+1713,2013,CD Teneriffa,4.6
+1714,2013,SD Eibar,3.0
+1715,2013,Real Jaén,1.7
+1716,2014,Betis Sevilla,44.9
+1717,2014,Real Valladolid,36.3
+1718,2014,CA Osasuna,24.1
+1719,2014,RCD Mallorca,23.6
+1720,2014,FC Barcelona B,20.65
+1721,2014,UD Las Palmas,17.2
+1722,2014,Real Saragossa,16.4
+1723,2014,CD Teneriffa,14.1
+1724,2014,Sporting Gijón,12.8
+1725,2014,CD Numancia,11.9
+1726,2014,Alcorcón,11.4
+1727,2014,CD Lugo,11.35
+1728,2014,Ponferradina,10.1
+1729,2014,Dep. Alavés,8.5
+1730,2014,Recr. Huelva,8.15
+1731,2014,CE Sabadell ,7.8
+1732,2014,FC Girona,7.6
+1733,2014,CD Leganés,7.1
+1734,2014,CD Mirandés,4.1
+1735,2014,Rac. Santander,3.1
+1736,2014,UE Llagostera,2.8
+1737,2014,Albacete,2.4
+1738,2015,Real Valladolid,30.2
+1739,2015,UD Almería,26.15
+1740,2015,Real Saragossa,21.15
+1741,2015,RCD Mallorca,19.13
+1742,2015,CD Leganés,17.0
+1743,2015,FC Córdoba,16.9
+1744,2015,FC Elche,15.3
+1745,2015,Ponferradina,14.2
+1746,2015,CA Osasuna,13.8
+1747,2015,Dep. Alavés,12.6
+1748,2015,UE Llagostera,12.25
+1749,2015,FC Girona,12.2
+1750,2015,CD Lugo,11.9
+1751,2015,Alcorcón,10.95
+1752,2015,CD Numancia,10.55
+1753,2015,Albacete,9.75
+1754,2015,CD Teneriffa,8.7
+1755,2015,SD Huesca,8.5
+1756,2015,Real Oviedo,8.13
+1757,2015,Gimnàstic,7.1
+1758,2015,CD Mirandés,6.5
+1759,2015,Athletic B,3.3
+1760,2016,UD Levante,35.4
+1761,2016,Rayo Vallecano,34.95
+1762,2016,FC Getafe,30.6
+1763,2016,UD Almería,21.4
+1764,2016,Real Valladolid,21.2
+1765,2016,Real Saragossa,18.95
+1766,2016,Real Oviedo,17.75
+1767,2016,FC Girona,16.2
+1768,2016,RCD Mallorca,15.7
+1769,2016,Gimnàstic,14.75
+1770,2016,FC Córdoba,14.65
+1771,2016,FC Elche,13.7
+1772,2016,Alcorcón,13.25
+1773,2016,CD Teneriffa,13.2
+1774,2016,CD Numancia,12.2
+1775,2016,SD Huesca,11.05
+1776,2016,CD Mirandés,10.75
+1777,2016,CD Lugo,10.3
+1778,2016,FC Cádiz,8.8
+1779,2016,UCAM Murcia,6.75
+1780,2016,Reus Deportiu,5.8
+1781,2016,FC Sevilla B,1.8
+1782,2017,Sporting Gijón,35.8
+1783,2017,FC Granada,30.85
+1784,2017,CA Osasuna,27.5
+1785,2017,Rayo Vallecano,25.48
+1786,2017,Real Valladolid,21.78
+1787,2017,FC Barcelona B,19.2
+1788,2017,FC Cádiz,15.25
+1789,2017,FC Córdoba,15.25
+1790,2017,FC Sevilla B,14.95
+1791,2017,SD Huesca,14.8
+1792,2017,Real Oviedo,14.7
+1793,2017,Gimnàstic,14.45
+1794,2017,UD Almería,14.05
+1795,2017,Albacete,13.5
+1796,2017,CD Lugo,13.45
+1797,2017,CyD Leonesa,12.55
+1798,2017,Alcorcón,12.48
+1799,2017,Lorca FC,12.25
+1800,2017,CD Teneriffa,11.55
+1801,2017,CD Numancia,11.4
+1802,2017,Real Saragossa,11.05
+1803,2017,Reus Deportiu,11.0
+1804,2018,FC Málaga,34.6
+1805,2018,UD Las Palmas,29.2
+1806,2018,Dep. La Coruna,25.1
+1807,2018,Sporting Gijón,21.25
+1808,2018,CA Osasuna,18.5
+1809,2018,FC Cádiz,17.8
+1810,2018,FC Granada,17.2
+1811,2018,Real Saragossa,14.7
+1812,2018,Real Oviedo,13.0
+1813,2018,UD Almería,12.7
+1814,2018,RCD Mallorca,12.25
+1815,2018,CD Lugo,12.1
+1816,2018,CD Numancia,12.1
+1817,2018,R. Majadahonda,11.5
+1818,2018,Albacete,11.2
+1819,2018,CD Teneriffa,10.9
+1820,2018,Gimnàstic,10.1
+1821,2018,Reus Deportiu,10.0
+1822,2018,Alcorcón,9.8
+1823,2018,Extremadura,9.7
+1824,2018,FC Elche,8.8
+1825,2018,FC Córdoba,8.3
+1826,2008,AC Mailand,349.75
+1827,2008,Inter,334.8
+1828,2008,AS Rom,243.0
+1829,2008,Juventus Turin,242.7
+1830,2008,AC Florenz,180.7
+1831,2008,US Palermo,109.5
+1832,2008,Lazio Rom,106.45
+1833,2008,Udinese,104.5
+1834,2008,SSC Neapel,97.3
+1835,2008,FC Genua,90.08
+1836,2008,Sampdoria,87.75
+1837,2008,FC Turin,72.45
+1838,2008,Catania Calcio,54.3
+1839,2008,Atal. Bergamo,51.15
+1840,2008,Chievo Verona,39.23
+1841,2008,US Lecce,36.95
+1842,2008,Siena,35.6
+1843,2008,Reggina,35.55
+1844,2008,FC Bologna,35.05
+1845,2008,Cagliari Calcio,34.93
+1846,2009,Inter,372.8
+1847,2009,AC Mailand,291.7
+1848,2009,Juventus Turin,289.8
+1849,2009,AS Rom,276.15
+1850,2009,AC Florenz,201.8
+1851,2009,Lazio Rom,142.0
+1852,2009,SSC Neapel,130.4
+1853,2009,FC Genua,126.9
+1854,2009,Udinese,118.45
+1855,2009,Sampdoria,94.53
+1856,2009,US Palermo,91.4
+1857,2009,Parma,77.15
+1858,2009,Atal. Bergamo,68.93
+1859,2009,FC Bologna,64.8
+1860,2009,Catania Calcio,52.1
+1861,2009,AS Livorno,50.48
+1862,2009,Siena,44.55
+1863,2009,Cagliari Calcio,44.33
+1864,2009,Bari,42.83
+1865,2009,Chievo Verona,38.3
+1866,2010,Inter,390.15
+1867,2010,AC Mailand,348.35
+1868,2010,Juventus Turin,332.43
+1869,2010,AS Rom,255.0
+1870,2010,AC Florenz,207.73
+1871,2010,FC Genua,168.7
+1872,2010,SSC Neapel,147.38
+1873,2010,Sampdoria,129.15
+1874,2010,Lazio Rom,116.25
+1875,2010,Udinese Calcio,112.55
+1876,2010,Parma,103.43
+1877,2010,US Palermo,87.8
+1878,2010,Cagliari Calcio,74.13
+1879,2010,Catania Calcio,68.7
+1880,2010,Cesena,64.9
+1881,2010,Bari,63.45
+1882,2010,Chievo Verona,55.2
+1883,2010,Brescia,49.1
+1884,2010,FC Bologna,47.18
+1885,2010,US Lecce,35.5
+1886,2011,Inter,388.3
+1887,2011,Juventus Turin,290.45
+1888,2011,AC Mailand,290.25
+1889,2011,AS Rom,183.5
+1890,2011,SSC Neapel,183.08
+1891,2011,AC Florenz,167.95
+1892,2011,FC Genua,129.7
+1893,2011,US Palermo,121.13
+1894,2011,Lazio Rom,119.8
+1895,2011,Udinese Calcio,108.55
+1896,2011,Parma,88.1
+1897,2011,Cagliari Calcio,67.65
+1898,2011,FC Bologna,66.93
+1899,2011,Cesena,62.45
+1900,2011,Catania Calcio,60.3
+1901,2011,Atal. Bergamo,59.28
+1902,2011,Chievo Verona,50.68
+1903,2011,Siena,43.5
+1904,2011,US Lecce,37.03
+1905,2011,Novara Calcio,32.68
+1906,2012,Juventus Turin,308.8
+1907,2012,AC Mailand,271.35
+1908,2012,Inter,265.6
+1909,2012,SSC Neapel,226.53
+1910,2012,AC Florenz,178.3
+1911,2012,AS Rom,157.83
+1912,2012,Lazio Rom,128.63
+1913,2012,FC Genua,118.4
+1914,2012,Udinese Calcio,106.03
+1915,2012,US Palermo,94.78
+1916,2012,FC Bologna,81.35
+1917,2012,Atal. Bergamo,75.7
+1918,2012,Parma,72.6
+1919,2012,Sampdoria,69.33
+1920,2012,Cagliari Calcio,64.98
+1921,2012,Chievo Verona,58.03
+1922,2012,FC Turin,54.18
+1923,2012,Catania Calcio,53.85
+1924,2012,Siena,50.95
+1925,2012,Delfino Pescara,45.7
+1926,2013,Juventus Turin,402.5
+1927,2013,AC Mailand,294.88
+1928,2013,Inter,276.13
+1929,2013,SSC Neapel,243.53
+1930,2013,AC Florenz,222.88
+1931,2013,AS Rom,214.65
+1932,2013,Lazio Rom,161.63
+1933,2013,Udinese Calcio,120.25
+1934,2013,FC Genua,104.4
+1935,2013,Parma,92.75
+1936,2013,Catania Calcio,88.88
+1937,2013,US Sassuolo,83.28
+1938,2013,Sampdoria,82.68
+1939,2013,Cagliari Calcio,80.48
+1940,2013,Chievo Verona,74.38
+1941,2013,Atal. Bergamo,72.68
+1942,2013,FC Bologna,63.73
+1943,2013,AS Livorno,62.98
+1944,2013,FC Turin,60.7
+1945,2013,Hellas Verona,57.05
+1946,2014,Juventus Turin,357.7
+1947,2014,Inter Mailand,311.7
+1948,2014,AC Mailand,305.23
+1949,2014,SSC Neapel,282.93
+1950,2014,AS Rom,260.5
+1951,2014,AC Florenz,243.53
+1952,2014,Lazio Rom,148.7
+1953,2014,Sampdoria,115.13
+1954,2014,FC Genua,113.2
+1955,2014,Udinese Calcio,100.53
+1956,2014,Parma,94.78
+1957,2014,US Sassuolo,89.35
+1958,2014,FC Turin,84.48
+1959,2014,Atal. Bergamo,79.45
+1960,2014,Chievo Verona,68.13
+1961,2014,Cagliari Calcio,65.13
+1962,2014,US Palermo,54.0
+1963,2014,Hellas Verona,45.78
+1964,2014,FC Empoli,35.63
+1965,2014,Cesena,35.6
+1966,2015,Juventus Turin,394.33
+1967,2015,AS Rom,319.08
+1968,2015,Inter Mailand,297.9
+1969,2015,SSC Neapel,268.95
+1970,2015,AC Mailand,233.0
+1971,2015,Lazio Rom,172.83
+1972,2015,AC Florenz,172.68
+1973,2015,Sampdoria,136.25
+1974,2015,FC Genua,124.95
+1975,2015,Udinese Calcio,98.65
+1976,2015,FC Turin,82.45
+1977,2015,FC Bologna,81.85
+1978,2015,US Sassuolo,77.6
+1979,2015,Atal. Bergamo,77.43
+1980,2015,Carpi,65.8
+1981,2015,US Palermo,62.55
+1982,2015,Hellas Verona,58.73
+1983,2015,Chievo Verona,46.38
+1984,2015,Frosinone Calc.,43.1
+1985,2015,FC Empoli,37.78
+1986,2016,Juventus Turin,422.0
+1987,2016,Inter Mailand,318.85
+1988,2016,SSC Neapel,303.9
+1989,2016,AS Rom,285.43
+1990,2016,AC Mailand,223.33
+1991,2016,AC Florenz,192.23
+1992,2016,Lazio Rom,171.25
+1993,2016,FC Turin,133.4
+1994,2016,FC Genua,107.63
+1995,2016,Udinese Calcio,105.33
+1996,2016,US Sassuolo,92.9
+1997,2016,Sampdoria,87.55
+1998,2016,FC Bologna,86.78
+1999,2016,Atal. Bergamo,80.23
+2000,2016,Cagliari Calcio,63.23
+2001,2016,FC Empoli,58.33
+2002,2016,Chievo Verona,45.9
+2003,2016,Delfino Pescara,44.45
+2004,2016,US Palermo,42.78
+2005,2016,FC Crotone,24.9
+2006,2017,Juventus Turin,540.53
+2007,2017,SSC Neapel,372.63
+2008,2017,AC Mailand,352.58
+2009,2017,Inter Mailand,347.43
+2010,2017,AS Rom,328.28
+2011,2017,Lazio Rom,220.75
+2012,2017,AC Florenz,168.1
+2013,2017,FC Turin,146.0
+2014,2017,Atal. Bergamo,126.33
+2015,2017,US Sassuolo,122.13
+2016,2017,Sampdoria,113.85
+2017,2017,FC Genua,113.48
+2018,2017,Udinese Calcio,87.18
+2019,2017,FC Bologna,82.63
+2020,2017,Cagliari Calcio,73.33
+2021,2017,Benevento,61.8
+2022,2017,Chievo Verona,50.78
+2023,2017,SPAL,50.4
+2024,2017,Hellas Verona,46.3
+2025,2017,FC Crotone,37.0
+2026,2018,Juventus Turin,783.5
+2027,2018,Inter Mailand,555.1
+2028,2018,SSC Neapel,515.5
+2029,2018,AC Mailand,486.0
+2030,2018,AS Rom,382.05
+2031,2018,Lazio Rom,337.7
+2032,2018,AC Florenz,242.78
+2033,2018,Sampdoria,165.2
+2034,2018,Atal. Bergamo,163.35
+2035,2018,FC Turin,158.9
+2036,2018,US Sassuolo,132.53
+2037,2018,Udinese Calcio,115.35
+2038,2018,Cagliari Calcio,112.48
+2039,2018,FC Genua,85.85
+2040,2018,FC Bologna,72.38
+2041,2018,SPAL,61.05
+2042,2018,Parma Calcio,56.43
+2043,2018,Frosinone Calc.,46.85
+2044,2018,FC Empoli,45.58
+2045,2018,Chievo Verona,42.0
+2046,2008,Parma,40.38
+2047,2008,FC Empoli,32.1
+2048,2008,Bari,26.55
+2049,2008,AS Livorno,22.85
+2050,2008,Brescia,18.6
+2051,2008,Ascoli,17.98
+2052,2008,US Salernitana,16.75
+2053,2008,Grosseto,14.18
+2054,2008,UC AlbinoLeffe,13.35
+2055,2008,Triestina,13.25
+2056,2008,Mantova,13.2
+2057,2008,Vicenza,11.4
+2058,2008,AC Pisa,11.19
+2059,2008,Treviso,10.89
+2060,2008,Rimini,10.55
+2061,2008,Modena,10.48
+2062,2008,Frosinone Calc.,10.25
+2063,2008,Piacenza,9.43
+2064,2008,Avellino,9.0
+2065,2008,US Sassuolo,6.41
+2066,2008,Ancona,3.68
+2067,2008,AS Cittadella,1.23
+2068,2009,FC Turin,59.2
+2069,2009,Reggina,31.75
+2070,2009,US Lecce,28.18
+2071,2009,FC Empoli,27.45
+2072,2009,Brescia,20.6
+2073,2009,Ascoli,14.95
+2074,2009,Calcio Padova,13.73
+2075,2009,Triestina,13.45
+2076,2009,UC AlbinoLeffe,13.1
+2077,2009,Vicenza,12.85
+2078,2009,Grosseto,12.85
+2079,2009,Mantova,12.2
+2080,2009,US Sassuolo,11.8
+2081,2009,Piacenza,11.68
+2082,2009,US Salernitana,11.2
+2083,2009,Modena,9.85
+2084,2009,Frosinone Calc.,8.9
+2085,2009,Gallipoli,7.4
+2086,2009,FC Crotone,7.35
+2087,2009,Cesena,7.35
+2088,2009,Ancona,6.2
+2089,2009,AS Cittadella,4.4
+2090,2010,Atal. Bergamo,51.6
+2091,2010,FC Turin,38.63
+2092,2010,Siena,30.95
+2093,2010,Frosinone Calc.,23.45
+2094,2010,AS Livorno,22.8
+2095,2010,US Sassuolo,22.45
+2096,2010,Calcio Padova,21.75
+2097,2010,Reggina,21.63
+2098,2010,Vicenza,19.58
+2099,2010,Grosseto,18.7
+2100,2010,FC Empoli,17.4
+2101,2010,Ascoli,15.7
+2102,2010,Piacenza,14.4
+2103,2010,FC Crotone,13.88
+2104,2010,Triestina,12.6
+2105,2010,Modena,11.0
+2106,2010,Delfino Pescara,10.95
+2107,2010,AS Cittadella,10.38
+2108,2010,Varese,9.58
+2109,2010,UC AlbinoLeffe,9.4
+2110,2010,Portogruaro,9.2
+2111,2010,Novara Calcio,8.33
+2112,2011,Sampdoria,74.18
+2113,2011,FC Turin,31.95
+2114,2011,Padova,22.23
+2115,2011,Bari,20.13
+2116,2011,Reggina,18.5
+2117,2011,FC Empoli,18.08
+2118,2011,Varese,17.05
+2119,2011,Brescia,16.9
+2120,2011,AS Livorno,15.88
+2121,2011,Vicenza,15.55
+2122,2011,US Sassuolo,15.38
+2123,2011,Grosseto,14.73
+2124,2011,Modena,14.15
+2125,2011,AS Gubbio,10.8
+2126,2011,Juve Stabia,10.75
+2127,2011,Delfino Pescara,10.43
+2128,2011,Nocerina,10.15
+2129,2011,Hellas Verona,10.0
+2130,2011,FC Crotone,9.78
+2131,2011,UC AlbinoLeffe,9.05
+2132,2011,Ascoli,8.13
+2133,2011,AS Cittadella,6.33
+2134,2012,Hellas Verona,28.43
+2135,2012,Spezia Calcio,21.33
+2136,2012,Varese,20.23
+2137,2012,US Sassuolo,19.9
+2138,2012,Padova,18.85
+2139,2012,Brescia,17.58
+2140,2012,Reggina,17.33
+2141,2012,Cesena,16.38
+2142,2012,Vicenza,15.78
+2143,2012,Novara Calcio,15.53
+2144,2012,Grosseto,14.98
+2145,2012,Pro Vercelli,14.73
+2146,2012,Modena,12.93
+2147,2012,Ternana,12.48
+2148,2012,FC Empoli,11.68
+2149,2012,FC Crotone,11.45
+2150,2012,AS Livorno,10.7
+2151,2012,Juve Stabia,10.7
+2152,2012,Bari,10.63
+2153,2012,Virtus Lanciano,9.68
+2154,2012,AS Cittadella,9.08
+2155,2012,Ascoli,7.25
+2156,2013,US Palermo,65.18
+2157,2013,Siena,28.45
+2158,2013,Spezia Calcio,28.03
+2159,2013,Delfino Pescara,27.95
+2160,2013,Padova,21.85
+2161,2013,Cesena,21.33
+2162,2013,Novara Calcio,18.6
+2163,2013,Bari,16.83
+2164,2013,Carpi,15.85
+2165,2013,Brescia,15.6
+2166,2013,Ternana,15.08
+2167,2013,Reggina,14.7
+2168,2013,Varese,14.28
+2169,2013,Latina Calcio,14.15
+2170,2013,FC Empoli,13.55
+2171,2013,Modena,12.95
+2172,2013,Juve Stabia,12.85
+2173,2013,FC Crotone,12.48
+2174,2013,AS Cittadella,11.6
+2175,2013,Virtus Lanciano,10.85
+2176,2013,AS Avellino,7.85
+2177,2013,Trapani Calcio,7.75
+2178,2014,Catania Calcio,52.35
+2179,2014,FC Bologna,39.53
+2180,2014,Spezia Calcio,31.05
+2181,2014,Bari,29.8
+2182,2014,Delfino Pescara,27.98
+2183,2014,AC Perugia,27.43
+2184,2014,AS Livorno,19.33
+2185,2014,Latina Calcio,19.13
+2186,2014,FC Crotone,15.08
+2187,2014,Ternana,14.03
+2188,2014,AS Avellino,13.53
+2189,2014,Vicenza,13.5
+2190,2014,Varese,13.38
+2191,2014,Carpi,12.88
+2192,2014,Modena,12.7
+2193,2014,Frosinone Calc.,12.35
+2194,2014,Virtus Entella,11.25
+2195,2014,Brescia,10.83
+2196,2014,Virtus Lanciano,10.75
+2197,2014,Trapani Calcio,9.5
+2198,2014,Pro Vercelli,8.33
+2199,2014,AS Cittadella,8.13
+2200,2015,Cagliari Calcio,46.9
+2201,2015,Bari,27.6
+2202,2015,Delfino Pescara,27.53
+2203,2015,Spezia Calcio,23.93
+2204,2015,Cesena,22.2
+2205,2015,AS Livorno,22.0
+2206,2015,Latina Calcio,21.1
+2207,2015,AC Perugia,21.0
+2208,2015,Vicenza,20.38
+2209,2015,Calcio Como,19.85
+2210,2015,Novara Calcio,18.4
+2211,2015,Avellino,17.78
+2212,2015,Virtus Lanciano,15.2
+2213,2015,Ascoli Picchio,15.13
+2214,2015,US Salernitana,14.8
+2215,2015,Ternana,14.2
+2216,2015,Modena,13.65
+2217,2015,Pro Vercelli,13.38
+2218,2015,Trapani Calcio,10.43
+2219,2015,Virtus Entella,10.33
+2220,2015,FC Crotone,9.85
+2221,2015,Brescia,7.4
+2222,2016,Hellas Verona,39.18
+2223,2016,Bari,31.08
+2224,2016,Carpi,29.8
+2225,2016,Frosinone Calc.,27.78
+2226,2016,Spezia Calcio,23.65
+2227,2016,Novara Calcio,23.05
+2228,2016,Cesena,21.95
+2229,2016,Ternana,20.45
+2230,2016,Vicenza,19.55
+2231,2016,Brescia,18.65
+2232,2016,AC Perugia,17.88
+2233,2016,Trapani Calcio,17.08
+2234,2016,Avellino,16.85
+2235,2016,US Salernitana,16.73
+2236,2016,Latina Calcio,16.28
+2237,2016,Virtus Entella,15.3
+2238,2016,Benevento,15.08
+2239,2016,SPAL,13.85
+2240,2016,Pro Vercelli,11.78
+2241,2016,AC Pisa,11.25
+2242,2016,Ascoli Picchio,10.5
+2243,2016,AS Cittadella,7.6
+2244,2017,US Palermo,31.48
+2245,2017,Frosinone Calc.,29.08
+2246,2017,FC Empoli,28.15
+2247,2017,Delfino Pescara,27.05
+2248,2017,Bari,25.88
+2249,2017,AC Perugia,23.13
+2250,2017,Spezia Calcio,21.23
+2251,2017,Parma Calcio,21.0
+2252,2017,Virtus Entella,19.58
+2253,2017,Carpi,19.28
+2254,2017,Cremonese,19.08
+2255,2017,Brescia Calcio,18.98
+2256,2017,Novara Calcio,18.98
+2257,2017,US Salernitana,17.93
+2258,2017,Cesena,15.58
+2259,2017,Pro Vercelli,15.28
+2260,2017,Avellino,13.9
+2261,2017,AS Cittadella,13.65
+2262,2017,Ascoli Picchio,13.33
+2263,2017,Foggia,13.18
+2264,2017,Venezia,9.9
+2265,2017,Ternana U.,9.58
+2266,2018,US Palermo,28.83
+2267,2018,FC Crotone,27.33
+2268,2018,Brescia Calcio,26.9
+2269,2018,Hellas Verona,23.75
+2270,2018,AC Perugia,22.38
+2271,2018,Benevento,21.7
+2272,2018,Delfino Pescara,17.25
+2273,2018,US Salernitana,15.83
+2274,2018,Cremonese,15.23
+2275,2018,Foggia,14.9
+2276,2018,Ascoli,14.43
+2277,2018,Spezia Calcio,14.13
+2278,2018,US Lecce,13.83
+2279,2018,Venezia,13.38
+2280,2018,Carpi,12.05
+2281,2018,AS Cittadella,10.2
+2282,2018,AS Livorno,9.15
+2283,2018,Calcio Padova,8.48
+2284,2018,Cosenza,7.93
+2285,2008,Olympique Lyon,208.4
+2286,2008,Ol. Marseille,118.7
+2287,2008,G. Bordeaux,98.8
+2288,2008,AS St.-Étienne,85.65
+2289,2008,Paris SG,75.0
+2290,2008,LOSC Lille,61.05
+2291,2008,Stade Rennes,60.6
+2292,2008,AS Nancy,53.2
+2293,2008,AJ Auxerre,52.55
+2294,2008,AS Monaco,48.85
+2295,2008,OGC Nizza,46.75
+2296,2008,FC Toulouse,44.55
+2297,2008,FC Lorient,43.95
+2298,2008,Valenciennes FC,43.75
+2299,2008,FC Sochaux,37.3
+2300,2008,FC Nantes,36.4
+2301,2008,AC Le Havre,31.8
+2302,2008,SM Caen,31.25
+2303,2008,Le Mans UC 72,30.75
+2304,2008,Grenoble,27.0
+2305,2009,Olympique Lyon,175.85
+2306,2009,Ol. Marseille,159.0
+2307,2009,G. Bordeaux,123.0
+2308,2009,Paris SG,92.15
+2309,2009,LOSC Lille,82.3
+2310,2009,AS St.-Étienne,80.9
+2311,2009,Stade Rennes,78.15
+2312,2009,AS Monaco,75.85
+2313,2009,FC Toulouse,69.05
+2314,2009,OGC Nizza,56.6
+2315,2009,AS Nancy,54.3
+2316,2009,AJ Auxerre,52.0
+2317,2009,Le Mans UC 72,51.8
+2318,2009,Valenciennes FC,48.43
+2319,2009,FC Lorient,42.7
+2320,2009,RC Lens,41.35
+2321,2009,FC Sochaux,40.4
+2322,2009,Grenoble,35.9
+2323,2009,HSC Montpellier,31.55
+2324,2009,US Boulogne,29.05
+2325,2010,Olympique Lyon,210.3
+2326,2010,Ol. Marseille,179.95
+2327,2010,G. Bordeaux,146.4
+2328,2010,Paris SG,106.75
+2329,2010,LOSC Lille,101.25
+2330,2010,AS Monaco,94.25
+2331,2010,Stade Rennes,89.0
+2332,2010,FC Toulouse,80.68
+2333,2010,AS St.-Étienne,71.85
+2334,2010,OGC Nizza,64.0
+2335,2010,AJ Auxerre,62.15
+2336,2010,AS Nancy,58.7
+2337,2010,Valenciennes FC,53.53
+2338,2010,FC Lorient,49.85
+2339,2010,RC Lens,47.98
+2340,2010,HSC Montpellier,47.98
+2341,2010,FC Sochaux,44.25
+2342,2010,AC Arles,28.2
+2343,2010,Stade Brest 29,24.45
+2344,2010,SM Caen,24.1
+2345,2011,Paris SG,223.1
+2346,2011,Olympique Lyon,171.0
+2347,2011,Ol. Marseille,160.8
+2348,2011,LOSC Lille,132.95
+2349,2011,Stade Rennes,91.45
+2350,2011,G. Bordeaux,88.9
+2351,2011,AS St.-Étienne,76.75
+2352,2011,FC Toulouse,74.25
+2353,2011,FC Sochaux,56.05
+2354,2011,AS Nancy,54.45
+2355,2011,OGC Nizza,50.8
+2356,2011,FC Lorient,48.85
+2357,2011,HSC Montpellier,48.7
+2358,2011,Valenciennes FC,47.25
+2359,2011,AJ Auxerre,46.85
+2360,2011,Stade Brest 29,40.85
+2361,2011,FC Évian,34.95
+2362,2011,AC Ajaccio,27.05
+2363,2011,SM Caen,26.75
+2364,2011,FCO Dijon,24.3
+2365,2012,Paris SG,332.85
+2366,2012,Olympique Lyon,155.9
+2367,2012,Ol. Marseille,146.95
+2368,2012,LOSC Lille,105.2
+2369,2012,Stade Rennes,98.6
+2370,2012,HSC Montpellier,83.4
+2371,2012,AS St.-Étienne,82.9
+2372,2012,G. Bordeaux,78.78
+2373,2012,FC Toulouse,73.55
+2374,2012,FC Lorient,57.5
+2375,2012,Valenciennes FC,48.15
+2376,2012,FC Sochaux,48.1
+2377,2012,OGC Nizza,41.95
+2378,2012,FC Évian,39.7
+2379,2012,AC Ajaccio,38.8
+2380,2012,Stade Brest 29,37.85
+2381,2012,AS Nancy,33.3
+2382,2012,SC Bastia,32.7
+2383,2012,Stade Reims,22.45
+2384,2012,ES Troyes AC,19.95
+2385,2013,Paris SG,370.9
+2386,2013,AS Monaco,234.2
+2387,2013,Ol. Marseille,140.15
+2388,2013,Olympique Lyon,112.25
+2389,2013,AS St.-Étienne,105.7
+2390,2013,Stade Rennes,101.15
+2391,2013,LOSC Lille,75.2
+2392,2013,G. Bordeaux,63.35
+2393,2013,FC Toulouse,60.9
+2394,2013,FC Sochaux,59.7
+2395,2013,OGC Nizza,56.8
+2396,2013,HSC Montpellier,56.8
+2397,2013,FC Lorient,53.7
+2398,2013,Valenciennes FC,40.45
+2399,2013,SC Bastia,39.75
+2400,2013,FC Évian,35.95
+2401,2013,Stade Reims,33.4
+2402,2013,AC Ajaccio,31.03
+2403,2013,FC Nantes,28.78
+2404,2013,EA Guingamp,18.2
+2405,2014,Paris SG,386.0
+2406,2014,AS Monaco,194.75
+2407,2014,Ol. Marseille,144.55
+2408,2014,Olympique Lyon,92.85
+2409,2014,AS St.-Étienne,84.8
+2410,2014,LOSC Lille,75.55
+2411,2014,G. Bordeaux,63.15
+2412,2014,Stade Rennes,61.5
+2413,2014,FC Lorient,52.25
+2414,2014,FC Toulouse,51.55
+2415,2014,OGC Nizza,48.9
+2416,2014,Stade Reims,42.25
+2417,2014,HSC Montpellier,41.3
+2418,2014,FC Évian,38.15
+2419,2014,SC Bastia,31.75
+2420,2014,FC Nantes,31.2
+2421,2014,EA Guingamp,29.08
+2422,2014,FC Metz,21.5
+2423,2014,SM Caen,19.2
+2424,2014,RC Lens,13.75
+2425,2015,Paris SG,433.3
+2426,2015,Olympique Lyon,171.45
+2427,2015,AS Monaco,152.75
+2428,2015,Ol. Marseille,143.85
+2429,2015,AS St.-Étienne,95.55
+2430,2015,G. Bordeaux,80.8
+2431,2015,Stade Rennes,79.03
+2432,2015,LOSC Lille,65.6
+2433,2015,OGC Nizza,49.7
+2434,2015,FC Lorient,49.35
+2435,2015,HSC Montpellier,46.75
+2436,2015,Stade Reims,45.5
+2437,2015,FC Toulouse,40.8
+2438,2015,FC Nantes,37.15
+2439,2015,EA Guingamp,31.3
+2440,2015,SM Caen,28.25
+2441,2015,ES Troyes AC,26.95
+2442,2015,SC Bastia,20.85
+2443,2015,SCO Angers,20.6
+2444,2015,GFC Ajaccio,13.9
+2445,2016,Paris SG,502.05
+2446,2016,AS Monaco,190.45
+2447,2016,Olympique Lyon,179.2
+2448,2016,Ol. Marseille,109.4
+2449,2016,AS St.-Étienne,85.4
+2450,2016,G. Bordeaux,80.55
+2451,2016,LOSC Lille,74.38
+2452,2016,Stade Rennes,73.5
+2453,2016,OGC Nizza,65.85
+2454,2016,FC Lorient,49.65
+2455,2016,FC Toulouse,49.2
+2456,2016,FC Nantes,40.45
+2457,2016,HSC Montpellier,36.15
+2458,2016,SC Bastia,35.05
+2459,2016,SM Caen,34.4
+2460,2016,SCO Angers,34.25
+2461,2016,EA Guingamp,33.2
+2462,2016,FC Metz,26.68
+2463,2016,FCO Dijon,21.0
+2464,2016,AS Nancy,20.9
+2465,2017,Paris SG,581.1
+2466,2017,AS Monaco,291.8
+2467,2017,Ol. Marseille,162.15
+2468,2017,OGC Nizza,135.6
+2469,2017,Olympique Lyon,131.25
+2470,2017,AS St.-Étienne,102.83
+2471,2017,G. Bordeaux,97.2
+2472,2017,FC Toulouse,79.2
+2473,2017,Stade Rennes,56.05
+2474,2017,FC Nantes,52.2
+2475,2017,EA Guingamp,45.15
+2476,2017,SCO Angers,44.25
+2477,2017,LOSC Lille,43.49
+2478,2017,FC Metz,43.05
+2479,2017,SM Caen,38.05
+2480,2017,HSC Montpellier,36.55
+2481,2017,FCO Dijon,35.6
+2482,2017,SC Amiens,27.4
+2483,2017,ES Troyes AC,25.7
+2484,2017,R. Straßburg,20.55
+2485,2018,Paris SG,867.65
+2486,2018,Olympique Lyon,373.4
+2487,2018,AS Monaco,295.9
+2488,2018,Ol. Marseille,272.3
+2489,2018,OGC Nizza,141.35
+2490,2018,LOSC Lille,128.55
+2491,2018,Stade Rennes,124.7
+2492,2018,G. Bordeaux,120.75
+2493,2018,FC Nantes,108.8
+2494,2018,AS St.-Étienne,86.5
+2495,2018,FC Toulouse,80.3
+2496,2018,FCO Dijon,71.35
+2497,2018,HSC Montpellier,65.45
+2498,2018,R. Straßburg,65.0
+2499,2018,SM Caen,59.7
+2500,2018,Nîmes Olympique,59.6
+2501,2018,SC Amiens,53.1
+2502,2018,SCO Angers,52.6
+2503,2018,EA Guingamp,48.45
+2504,2018,Stade Reims,43.75
+2505,2008,RC Lens,45.45
+2506,2008,R. Straßburg,25.2
+2507,2008,Stade Reims,20.23
+2508,2008,ES Troyes AC,19.1
+2509,2008,HSC Montpellier,19.0
+2510,2008,FC Metz,18.95
+2511,2008,EA Guingamp,18.05
+2512,2008,SC Bastia,15.8
+2513,2008,Stade Brest 29,14.6
+2514,2008,SCO Angers,13.65
+2515,2008,LB Châteauroux,13.2
+2516,2008,CS Sedan,13.05
+2517,2008,Clermont Foot,12.95
+2518,2008,SC Amiens,12.5
+2519,2008,AC Ajaccio,12.0
+2520,2008,OC Vannes,12.0
+2521,2008,FCO Dijon,11.95
+2522,2008,US Boulogne,11.8
+2523,2008,FC Tours,11.65
+2524,2008,Nîmes Olympique,6.25
+2525,2009,FC Nantes,41.03
+2526,2009,SM Caen,26.0
+2527,2009,R. Straßburg,24.5
+2528,2009,FC Metz,23.75
+2529,2009,AC Le Havre,23.2
+2530,2009,Stade Brest 29,16.45
+2531,2009,EA Guingamp,16.2
+2532,2009,SCO Angers,15.95
+2533,2009,CS Sedan,14.75
+2534,2009,FC Tours,13.75
+2535,2009,SC Bastia,13.7
+2536,2009,FCO Dijon,13.6
+2537,2009,LB Châteauroux,13.25
+2538,2009,OC Vannes,13.05
+2539,2009,AC Ajaccio,12.95
+2540,2009,AC Arles,11.05
+2541,2009,Nîmes Olympique,11.03
+2542,2009,Clermont Foot,9.85
+2543,2009,FC Istres,7.73
+2544,2009,Stade Laval,6.0
+2545,2010,Le Mans,27.95
+2546,2010,FC Nantes,23.3
+2547,2010,Grenoble,19.38
+2548,2010,US Boulogne,17.98
+2549,2010,FC Tours,15.08
+2550,2010,AC Le Havre,15.0
+2551,2010,FC Metz,14.23
+2552,2010,LB Châteauroux,13.85
+2553,2010,OC Vannes,13.5
+2554,2010,CS Sedan,13.05
+2555,2010,SCO Angers,12.7
+2556,2010,Nîmes Olympique,12.25
+2557,2010,FC Évian,11.6
+2558,2010,ES Troyes AC,11.55
+2559,2010,Stade Laval,9.9
+2560,2010,FCO Dijon,9.25
+2561,2010,Stade Reims,9.05
+2562,2010,Clermont Foot,8.75
+2563,2010,FC Istres,8.4
+2564,2010,AC Ajaccio,7.85
+2565,2011,AS Monaco,45.95
+2566,2011,RC Lens,26.1
+2567,2011,FC Nantes,18.3
+2568,2011,AC Le Havre,14.9
+2569,2011,AC Arles,14.6
+2570,2011,CS Sedan,12.9
+2571,2011,FC Metz,12.58
+2572,2011,US Boulogne,12.45
+2573,2011,Le Mans,12.15
+2574,2011,FC Tours,11.75
+2575,2011,EA Guingamp,11.55
+2576,2011,ES Troyes AC,9.95
+2577,2011,SCO Angers,9.65
+2578,2011,LB Châteauroux,9.4
+2579,2011,Stade Reims,9.3
+2580,2011,Clermont Foot,9.13
+2581,2011,FC Istres,8.55
+2582,2011,Stade Laval,7.1
+2583,2011,SC Amiens,6.65
+2584,2011,SC Bastia,6.4
+2585,2012,AS Monaco,53.15
+2586,2012,AJ Auxerre,29.0
+2587,2012,FCO Dijon,24.85
+2588,2012,SM Caen,17.0
+2589,2012,FC Nantes,14.65
+2590,2012,AC Le Havre,14.5
+2591,2012,AC Arles,13.33
+2592,2012,CS Sedan,13.15
+2593,2012,RC Lens,12.15
+2594,2012,EA Guingamp,11.85
+2595,2012,Clermont Foot,10.8
+2596,2012,FC Tours,10.25
+2597,2012,Le Mans,10.1
+2598,2012,LB Châteauroux,8.9
+2599,2012,SCO Angers,8.85
+2600,2012,FC Istres,7.7
+2601,2012,Stade Laval,7.25
+2602,2012,GFC Ajaccio,4.2
+2603,2012,Nîmes Olympique,4.0
+2604,2012,FC Niort,2.25
+2605,2013,AS Nancy,25.15
+2606,2013,Stade Brest 29,20.65
+2607,2013,FCO Dijon,19.95
+2608,2013,ES Troyes AC,16.2
+2609,2013,RC Lens,15.95
+2610,2013,AC Le Havre,14.55
+2611,2013,AJ Auxerre,13.1
+2612,2013,SM Caen,12.6
+2613,2013,SCO Angers,11.4
+2614,2013,AC Arles,10.55
+2615,2013,FC Metz,10.35
+2616,2013,FC Tours,10.15
+2617,2013,LB Châteauroux,9.7
+2618,2013,FC Istres,9.35
+2619,2013,Stade Laval,8.5
+2620,2013,Clermont Foot,7.98
+2621,2013,Nîmes Olympique,7.3
+2622,2013,FC Niort,6.15
+2623,2013,US Créteil,5.25
+2624,2013,CA Bastia,3.95
+2625,2014,ES Troyes AC,18.9
+2626,2014,Stade Brest 29,18.38
+2627,2014,AS Nancy,15.75
+2628,2014,Valenciennes FC,15.25
+2629,2014,AC Arles,14.95
+2630,2014,FCO Dijon,14.8
+2631,2014,AC Ajaccio,13.35
+2632,2014,AJ Auxerre,13.3
+2633,2014,FC Sochaux,12.95
+2634,2014,SCO Angers,12.2
+2635,2014,LB Châteauroux,11.1
+2636,2014,AC Le Havre,10.5
+2637,2014,FC Tours,9.05
+2638,2014,Clermont Foot,9.03
+2639,2014,US Créteil,7.75
+2640,2014,Stade Laval,7.15
+2641,2014,Nîmes Olympique,7.13
+2642,2014,GFC Ajaccio,5.5
+2643,2014,FC Niort,5.35
+2644,2014,US Orléans,3.65
+2645,2015,FC Metz,32.5
+2646,2015,RC Lens,22.8
+2647,2015,FC Sochaux,15.7
+2648,2015,AS Nancy,14.15
+2649,2015,AC Le Havre,14.1
+2650,2015,AJ Auxerre,13.0
+2651,2015,Paris FC,12.9
+2652,2015,FC Évian,12.7
+2653,2015,Stade Brest 29,12.7
+2654,2015,FCO Dijon,12.5
+2655,2015,Red Star FC,11.5
+2656,2015,FC Tours,10.65
+2657,2015,Valenciennes FC,10.55
+2658,2015,Clermont Foot,9.6
+2659,2015,Nîmes Olympique,8.9
+2660,2015,AC Ajaccio,8.45
+2661,2015,US Créteil,7.55
+2662,2015,Stade Laval,6.95
+2663,2015,FC Niort,6.9
+2664,2015,Bourg-en-Bresse,4.65
+2665,2016,Stade Reims,28.9
+2666,2016,RC Lens,20.1
+2667,2016,AC Le Havre,16.1
+2668,2016,AJ Auxerre,15.55
+2669,2016,Red Star FC,14.3
+2670,2016,GFC Ajaccio,13.7
+2671,2016,Stade Brest 29,13.18
+2672,2016,FC Sochaux,11.25
+2673,2016,ES Troyes AC,10.95
+2674,2016,FC Tours,10.45
+2675,2016,R. Straßburg,10.0
+2676,2016,Stade Laval,9.65
+2677,2016,Valenciennes FC,9.3
+2678,2016,Clermont Foot,9.15
+2679,2016,Nîmes Olympique,8.3
+2680,2016,AC Ajaccio,7.9
+2681,2016,US Orléans,7.9
+2682,2016,FC Niort,6.8
+2683,2016,SC Amiens,6.35
+2684,2016,Bourg-en-Bresse,5.3
+2685,2017,FC Lorient,29.05
+2686,2017,RC Lens,26.08
+2687,2017,AS Nancy,21.35
+2688,2017,AJ Auxerre,18.35
+2689,2017,Stade Brest 29,17.75
+2690,2017,FC Tours,17.08
+2691,2017,Stade Reims,17.05
+2692,2017,AC Le Havre,15.18
+2693,2017,Nîmes Olympique,14.85
+2694,2017,Valenciennes FC,13.08
+2695,2017,FC Sochaux,12.18
+2696,2017,Bourg-en-Bresse,11.38
+2697,2017,GFC Ajaccio,10.95
+2698,2017,AC Ajaccio,10.65
+2699,2017,FC Niort,10.25
+2700,2017,LB Châteauroux,10.08
+2701,2017,Clermont Foot,9.68
+2702,2017,US Quevilly,9.13
+2703,2017,US Orléans,7.13
+2704,2017,Paris FC,6.93
+2705,2018,FC Metz,22.55
+2706,2018,ES Troyes AC,22.2
+2707,2018,RC Lens,19.78
+2708,2018,AJ Auxerre,18.9
+2709,2018,AC Le Havre,17.15
+2710,2018,FC Lorient,17.15
+2711,2018,AS Nancy,16.75
+2712,2018,Stade Brest 29,15.85
+2713,2018,AC Ajaccio,11.15
+2714,2018,Valenciennes FC,11.15
+2715,2018,LB Châteauroux,9.18
+2716,2018,Clermont Foot,8.94
+2717,2018,FC Sochaux,8.9
+2718,2018,Red Star FC,8.5
+2719,2018,Paris FC,8.2
+2720,2018,US Orléans,8.0
+2721,2018,GFC Ajaccio,7.4
+2722,2018,FC Niort,6.7
+2723,2018,Grenoble,5.98
+2724,2018,AS Béziers,3.25
+2725,2008,FC Basel,24.63
+2726,2008,Grasshoppers,21.0
+2727,2008,FC Zürich,20.25
+2728,2008,BSC Young Boys,19.9
+2729,2008,FC Sion,19.85
+2730,2008,FC Luzern,12.08
+2731,2008,FC Aarau,9.63
+2732,2008,Neuchâtel Xamax,8.3
+2733,2008,AC Bellinzona,5.85
+2734,2008,FC Vaduz,3.53
+2735,2009,FC Basel,32.25
+2736,2009,FC Zürich,31.55
+2737,2009,BSC Young Boys,20.8
+2738,2009,FC Sion,17.05
+2739,2009,Grasshoppers,15.88
+2740,2009,AC Bellinzona,15.65
+2741,2009,Neuchâtel Xamax,14.5
+2742,2009,FC Luzern,14.3
+2743,2009,FC St. Gallen,10.9
+2744,2009,FC Aarau,10.33
+2745,2010,FC Basel,41.2
+2746,2010,BSC Young Boys,26.6
+2747,2010,FC Zürich,23.25
+2748,2010,FC Sion,18.38
+2749,2010,FC St. Gallen,16.45
+2750,2010,Grasshoppers,14.2
+2751,2010,FC Luzern,14.05
+2752,2010,Neuchâtel Xamax,12.35
+2753,2010,AC Bellinzona,8.35
+2754,2010,FC Thun,7.95
+2755,2011,FC Basel,38.95
+2756,2011,BSC Young Boys,31.0
+2757,2011,FC Zürich,24.8
+2758,2011,Neuchâtel Xamax,24.23
+2759,2011,FC Sion,23.95
+2760,2011,FC Luzern,13.88
+2761,2011,Grasshoppers,13.45
+2762,2011,Lausanne-Sport,9.25
+2763,2011,FC Thun,8.3
+2764,2011,Servette FC,8.18
+2765,2012,FC Basel,39.25
+2766,2012,BSC Young Boys,32.35
+2767,2012,FC Sion,29.6
+2768,2012,FC Luzern,18.2
+2769,2012,FC Zürich,17.75
+2770,2012,Grasshoppers,14.15
+2771,2012,Servette FC,11.4
+2772,2012,FC St. Gallen,10.35
+2773,2012,FC Thun,9.03
+2774,2012,Lausanne-Sport,8.5
+2775,2013,FC Basel,67.83
+2776,2013,BSC Young Boys,23.95
+2777,2013,FC Sion,20.98
+2778,2013,Grasshoppers,20.65
+2779,2013,FC Zürich,18.88
+2780,2013,FC Luzern,14.3
+2781,2013,Lausanne-Sport,13.53
+2782,2013,FC St. Gallen,13.48
+2783,2013,FC Aarau,11.4
+2784,2013,FC Thun,10.43
+2785,2014,FC Basel,44.4
+2786,2014,BSC Young Boys,22.63
+2787,2014,FC Sion,22.55
+2788,2014,Grasshoppers,20.5
+2789,2014,FC Luzern,19.03
+2790,2014,FC Zürich,17.3
+2791,2014,FC St. Gallen,13.85
+2792,2014,FC Aarau,12.73
+2793,2014,FC Thun,12.0
+2794,2014,FC Vaduz,8.03
+2795,2015,FC Basel,57.9
+2796,2015,BSC Young Boys,40.1
+2797,2015,FC Sion,32.6
+2798,2015,FC Zürich,28.38
+2799,2015,Grasshoppers,25.0
+2800,2015,FC St. Gallen,21.83
+2801,2015,FC Luzern,21.4
+2802,2015,FC Vaduz,14.43
+2803,2015,FC Thun,12.2
+2804,2015,FC Lugano,9.93
+2805,2016,FC Basel,67.7
+2806,2016,BSC Young Boys,40.85
+2807,2016,FC Sion,37.88
+2808,2016,Grasshoppers,27.93
+2809,2016,FC St. Gallen,21.95
+2810,2016,FC Luzern,14.78
+2811,2016,FC Lugano,14.1
+2812,2016,FC Thun,11.45
+2813,2016,Lausanne-Sport,10.83
+2814,2016,FC Vaduz,10.28
+2815,2017,FC Basel,59.93
+2816,2017,FC Sion,36.35
+2817,2017,BSC Young Boys,25.45
+2818,2017,Grasshoppers,23.2
+2819,2017,FC St. Gallen,20.63
+2820,2017,Lausanne-Sport,19.1
+2821,2017,FC Luzern,15.73
+2822,2017,FC Lugano,15.6
+2823,2017,FC Zürich,15.05
+2824,2017,FC Thun,12.93
+2825,2018,BSC Young Boys,68.85
+2826,2018,FC Basel,53.3
+2827,2018,FC Sion,26.48
+2828,2018,Grasshoppers,26.1
+2829,2018,FC Luzern,22.15
+2830,2018,FC Zürich,21.5
+2831,2018,FC Lugano,19.1
+2832,2018,FC Thun,17.2
+2833,2018,FC St. Gallen,15.23
+2834,2018,NE Xamax,10.25
+2835,2008,FC St. Gallen,9.68
+2836,2008,FC Thun,4.05
+2837,2008,FC Winterthur,3.85
+2838,2008,FC Locarno,3.75
+2839,2008,Servette FC,3.43
+2840,2008,FC Schaffhausen,3.03
+2841,2008,FC Lugano,2.4
+2842,2008,Yverdon-Sport,2.25
+2843,2008,Concordia,1.93
+2844,2008,Lausanne-Sport,1.93
+2845,2008,FC Gossau,1.85
+2846,2008,FC Wohlen,1.75
+2847,2008,FC Wil 1900,1.68
+2848,2008,FC Biel-Bienne,1.15
+2849,2008,Stade Nyonnais,1.15
+2850,2008,Chaux-de-Fonds,0.7
+2851,2009,FC Vaduz,5.6
+2852,2009,FC Thun,5.23
+2853,2009,FC Lugano,5.08
+2854,2009,FC Schaffhausen,4.85
+2855,2009,Lausanne-Sport,4.1
+2856,2009,Servette FC,3.95
+2857,2009,FC Wil 1900,3.73
+2858,2009,FC Winterthur,3.53
+2859,2009,FC Wohlen,3.3
+2860,2009,FC Biel-Bienne,3.2
+2861,2009,Yverdon-Sport,2.73
+2862,2009,FC Gossau,2.2
+2863,2009,FC Locarno,1.98
+2864,2009,Stade Nyonnais,1.78
+2865,2009,SC Kriens,1.7
+2866,2009,Le Mont LS,1.6
+2867,2010,FC Lugano,6.9
+2868,2010,Lausanne-Sport,6.28
+2869,2010,FC Aarau,5.93
+2870,2010,Yverdon-Sport,5.3
+2871,2010,FC Vaduz,5.25
+2872,2010,Servette FC,5.08
+2873,2010,FC Schaffhausen,4.78
+2874,2010,FC Wil 1900,4.65
+2875,2010,FC Winterthur,4.63
+2876,2010,FC Wohlen,4.25
+2877,2010,Stade Nyonnais,3.45
+2878,2010,FC Biel-Bienne,3.2
+2879,2010,SC Kriens,2.9
+2880,2010,FC Locarno,2.83
+2881,2010,FC Chiasso,1.93
+2882,2010,SR Delémont,0.75
+2883,2011,FC St. Gallen,7.7
+2884,2011,FC Lugano,6.45
+2885,2011,AC Bellinzona,6.35
+2886,2011,FC Vaduz,5.3
+2887,2011,FC Aarau,5.23
+2888,2011,FC Winterthur,5.1
+2889,2011,FC Wil 1900,4.8
+2890,2011,SC Kriens,3.98
+2891,2011,FC Wohlen,3.78
+2892,2011,FC Biel-Bienne,3.48
+2893,2011,FC Locarno,3.38
+2894,2011,SR Delémont,3.33
+2895,2011,FC Chiasso,3.3
+2896,2011,Stade Nyonnais,2.9
+2897,2011,SC Brühl SG,0.8
+2898,2011,Etoile Carouge,0.65
+2899,2012,FC Aarau,6.65
+2900,2012,AC Bellinzona,6.55
+2901,2012,FC Winterthur,5.95
+2902,2012,FC Vaduz,5.68
+2903,2012,FC Lugano,5.55
+2904,2012,FC Biel-Bienne,4.35
+2905,2012,FC Wil 1900,4.3
+2906,2012,FC Wohlen,4.18
+2907,2012,FC Chiasso,4.13
+2908,2012,FC Locarno,3.73
+2909,2013,Servette FC,8.5
+2910,2013,FC Lugano,6.43
+2911,2013,FC Vaduz,5.95
+2912,2013,FC Winterthur,5.88
+2913,2013,FC Wil 1900,5.75
+2914,2013,FC Chiasso,5.05
+2915,2013,FC Wohlen,4.7
+2916,2013,FC Biel-Bienne,4.63
+2917,2013,FC Locarno,2.43
+2918,2013,FC Schaffhausen,1.53
+2919,2014,Lausanne-Sport,8.48
+2920,2014,Servette FC,6.83
+2921,2014,FC Lugano,6.8
+2922,2014,FC Winterthur,5.85
+2923,2014,FC Biel-Bienne,5.3
+2924,2014,FC Wohlen,5.1
+2925,2014,FC Chiasso,5.03
+2926,2014,Le Mont LS,4.9
+2927,2014,FC Wil 1900,4.6
+2928,2014,FC Schaffhausen,4.03
+2929,2015,FC Wil 1900,10.98
+2930,2015,FC Aarau,9.05
+2931,2015,FC Biel-Bienne,6.85
+2932,2015,Lausanne-Sport,6.23
+2933,2015,FC Winterthur,5.48
+2934,2015,FC Schaffhausen,5.38
+2935,2015,FC Wohlen,5.1
+2936,2015,Le Mont LS,4.98
+2937,2015,FC Chiasso,4.83
+2938,2015,NE Xamax,4.25
+2939,2016,FC Zürich,16.18
+2940,2016,FC Wil 1900,10.63
+2941,2016,FC Aarau,7.7
+2942,2016,FC Winterthur,7.5
+2943,2016,FC Schaffhausen,7.3
+2944,2016,Le Mont LS,6.15
+2945,2016,FC Chiasso,6.08
+2946,2016,NE Xamax,5.2
+2947,2016,FC Wohlen,4.6
+2948,2016,Servette FC,4.48
+2949,2017,FC Aarau,8.78
+2950,2017,FC Vaduz,7.93
+2951,2017,FC Winterthur,7.6
+2952,2017,Servette FC,6.93
+2953,2017,NE Xamax,5.68
+2954,2017,FC Wil 1900,4.4
+2955,2017,FC Schaffhausen,4.33
+2956,2017,FC Wohlen,3.95
+2957,2017,FC Chiasso,3.48
+2958,2017,Rapperswil-Jona,2.88
+2959,2018,Lausanne-Sport,13.18
+2960,2018,FC Aarau,8.58
+2961,2018,Servette FC,8.53
+2962,2018,FC Winterthur,6.03
+2963,2018,FC Vaduz,5.73
+2964,2018,FC Schaffhausen,5.35
+2965,2018,FC Chiasso,4.93
+2966,2018,FC Wil 1900,4.43
+2967,2018,Rapperswil-Jona,4.2
+2968,2018,SC Kriens,3.15
